@@ -1,7 +1,7 @@
 ---
 title: Download & Install OBS Studio on Windows, Mac & Linux Computers
-date: 2024-09-11 22:48:34
-updated: 2024-09-13 12:48:56
+date: 2024-09-11T06:22:40.266Z
+updated: 2024-09-16T04:28:20.280Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/e24af9d0b47d7bf3dcde61ab73ef441dcda155d4ef5a243e1a2546d643282d46.jpg
@@ -298,6 +298,13 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -305,6 +312,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -352,6 +366,13 @@ De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver l'algorithme de Nagle
 
 En gros, l'algorithme de Nagle améliore l'efficacité des réseaux TCP/IP en créant des paquets de données, ce qui réduit le nombre de paquets à envoyer sur le réseau. Ce processus affecte votre connexion Internet, la rendant moins stable. La désactivation de cet algorithme sur votre PC peut contribuer à des problèmes de latence lorsque vous jouez à des jeux en ligne.
@@ -395,6 +416,19 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -423,6 +457,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -536,11 +577,28 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-crafting-memorable-visual-narratives-with-instagram-captions/"><u>[New] 2024 Approved Crafting Memorable Visual Narratives with Instagram Captions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-video-potential-with-expert-chroma-techniques/"><u>[New] Unlock Video Potential with Expert Chroma Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-displayinspector-critique-service/"><u>[Updated] DisplayInspector Critique Service</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-maximizing-gopro-content-integration-with-social-networks/"><u>[Updated] Maximizing GoPro Content Integration with Social Networks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-crafting-visual-stories-quick-methods-to-design-snaps/"><u>2024 Approved Crafting Visual Stories Quick Methods to Design Snaps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-quick-guide-to-effective-screen-recording-macos/"><u>2024 Approved Quick Guide to Effective Screen Recording macOS</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transform-ideas-into-engaging-movies-using-youtube-editor/"><u>2024 Approved Transform Ideas Into Engaging Movies Using YouTube Editor</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/top3/"><u>最適なサンプリングレート変換ウェブサイトランキングTOP3</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/screensnapper-prox-the-premier-pc-screen-recorder-by-apowersoft/"><u>ScreenSnapper ProX The Premier PC Screen Recorder by Apowersoft</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/top-solutions-overcome-error-retrieving-frame-problems-in-adobe-premiere-pro/"><u>Top Solutions: Overcome 'Error Retrieving Frame' Problems in Adobe Premiere Pro</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/transforming-success-effortless-tactics-to-change-vlc-format-into-mp4/"><u>Transforming Success: Effortless Tactics to Change VLC Format Into MP4</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-getting-netflix-up-and-running-again-on-roku/"><u>Troubleshooting Steps: Getting Netflix Up and Running Again on Roku</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/two-effective-methods-converting-swf-files-into-html-format-both-online-and-offline/"><u>Two Effective Methods: Converting SWF Files Into HTML Format, Both Online & Offline</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/ultimate-guide-selecting-and-utilizing-top-audio-trimming-tools/"><u>Ultimate Guide: Selecting and Utilizing Top Audio Trimming Tools</u></a></li>
+</ul></div>
+

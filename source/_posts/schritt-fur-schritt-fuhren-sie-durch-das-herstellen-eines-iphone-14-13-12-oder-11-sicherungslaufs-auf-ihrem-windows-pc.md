@@ -1,7 +1,7 @@
 ---
 title: Schritt-Für-Schritt Führen Sie Durch Das Herstellen Eines iPhone 14, 13, 12 Oder 11 Sicherungslaufs Auf Ihrem Windows-PC
-date: 2024-10-04T18:09:39.631Z
-updated: 2024-10-11T17:57:12.451Z
+date: 2024-10-28T00:38:45.266Z
+updated: 2024-11-03T17:44:23.141Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/9d1dd05c3f271eee3430329911a28889fe06673bc3d54592907c037975387dd6.jpg
@@ -38,13 +38,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is it possible to recover data from ransomware?
 
 I'm looking at a computer after it's been hit by some ransomware. The files have been encrypted. I am trying some guides in removal and recovery, but they don't seem to be of much help. If you have suggestions on how to recover files from ransomware, I would appreciate it.
@@ -55,16 +48,16 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1\. Recover files from ransomware with data recovery software
 
@@ -86,11 +79,25 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3\. Recover selected files**
 
@@ -99,10 +106,10 @@ You can expand the Deleted files folder and Other missing files folder to select
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2\. Recover ransomware infected files via Backup and Restore
@@ -118,6 +125,13 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
@@ -149,16 +163,16 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
@@ -169,13 +183,6 @@ Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -189,13 +196,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Don't click on emails and connections sent by strangers.
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -233,6 +233,13 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Free Get MyRecover Now
 
 Recover deleted & lost data from any disasters in Windows.
@@ -241,20 +248,13 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -272,22 +272,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-effective-social-crossposting-from-twitch-to-fb/"><u>[Updated] 2024 Approved Effective Social Crossposting From Twitch to FB</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-video-guide-from-youtube-to-twitter/"><u>[Updated] Ultimate Video Guide From YouTube to Twitter</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/10-leading-4k-displays/"><u>10 Leading 4K Displays</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-5-tricks-for-instantly-boosting-youtube-subscribers/"><u>2024 Approved 5 Tricks for Instantly Boosting YouTube Subscribers</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/dvd-mkv/"><u>靚仔指南：快速地 DVD 到 MKV 格式轉檔技術解決方案！</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/1726222260058-ogmavi-movavi/"><u>無限制網路OGM到AVI格式傳送 - 利用Movavi轉框器進行轉換</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/comprehensive-tutorial-on-video-masking-techniques-for-stunning-visual-impact/"><u>Comprehensive Tutorial on Video Masking Techniques for Stunning Visual Impact</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/discover-the-ultimate-list-of-free-watermark-programs-including-a-dive-into-movavi/"><u>Discover the Ultimate List of Free Watermark Programs, Including a Dive Into Movavi</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/enkeltfuld-gaestfrihed-herr-ga-dig-viden-om-at-lytte-til-zoom-moder-uden-modtagelsesforbrug/"><u>Enkeltfuld Gæstfrihed: Her'r Ga' Dig Viden Om At Lytte Til Zoom-Møder Uden Modtagelsesforbrug</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14 Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/humor-in-pixels-kapwings-meme-crafting-app/"><u>Humor in Pixels Kapwing’s Meme Crafting App</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/movavis-no-cost-image-upgrade-switch-your-jpeg-to-premium-tiff-online-effortlessly/"><u>Movavi's No-Cost Image Upgrade: Switch Your JPEG to Premium TIFF Online Effortlessly</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/movavis-quick-guide-to-free-flv-to-mkv-upgrade-online/"><u>Movavi's Quick Guide to Free FLV-to-MKV Upgrade Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transforming-device-diversity-into-a-single-note-world/"><u>Transforming Device Diversity Into a Single Note World</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/trasforma-i-tuoi-file-wma-in-formato-mkv-gratuitamente-con-convertitore-video-movavi/"><u>Trasforma I Tuoi File WMA in Formato MKV Gratuitamente Con Convertitore Video - Movavi</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-list-best-video-cameras-s-musical-cinematography/"><u>Ultimate List Best Video Cameras 'S Musical Cinematography</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-boosting-your-instagrams-video-popularity/"><u>[New] In 2024, Boosting Your Instagram's Video Popularity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-audio-to-action-mp3-to-youtube-conversion-journey/"><u>[Updated] 2024 Approved From Audio to Action MP3-to-YouTube Conversion Journey</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-mastering-mobile-captions-ios-and-androids-leading-helpers/"><u>[Updated] 2024 Approved Mastering Mobile Captions IOS & Android's Leading Helpers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-expert-advice-sharing-youtube-videos-with-fb-ease/"><u>[Updated] In 2024, Expert Advice Sharing YouTube Videos with FB Ease</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1728487188234-refs/"><u>详细指南：如何使用ReFS进行数据区回复，并防止数据丢失</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/comment-recuperer-des-donnees-sur-une-carte-sd-corrompue-ou-endommagee/"><u>Comment Récupérer Des Données Sur Une Carte SD Corrompue Ou Endommagée</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-wows-critical-failure-code-with-precision/"><u>Eliminating WoW's Critical Failure Code with Precision</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-restoring-your-iphones-ability-to-receive-calls/"><u>Guide: Restoring Your iPhone's Ability to Receive Calls</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-poco-m6-pro-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Poco M6 Pro 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60s-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Itel A60s Phone without Any Data Loss</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/jalan-lurus-dengan-membengok-fotografi-dalam-onedrive-5-langkah-kritis/"><u>Jalan Lurus Dengan Membengok Fotografi Dalam OneDrive: 5 Langkah Kritis.</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/onedrive-shared-folder-missing-in-windows-explorer-solution-guide/"><u>OneDrive Shared Folder Missing in Windows Explorer: Solution Guide</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/scaling-questions-provide-nuanced-measures-of-progress/"><u>Scaling Questions Provide Nuanced Measures of Progress.</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/scopri-perche-e-fondamentale-creare-copie-di-sicurezza-dei-tuoi-file-il-processo-del-backup-dei-dati-spiegato/"><u>Scopri Perché È Fondamentale Creare Copie Di Sicurezza Dei Tuoi File: Il Processo Del Backup Dei Dati Spiegato</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/step-by-step-guide-to-accessing-your-iphones-data-backups-on-pc/"><u>Step-by-Step Guide to Accessing Your iPhone's Data Backups on PC</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/top-quality-free-wd-elements-backup-program-discover-the-power-of-aomei-backupper/"><u>Top Quality Free WD Elements Backup Program: Discover the Power of AOMEI Backupper</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/windows-11-version-23h2-installation-guide-overcoming-compatibility-issues-with-hardware-two-methods/"><u>Windows 11 Version 23H2 Installation Guide: Overcoming Compatibility Issues with Hardware - Two Methods</u></a></li>
 </ul></div>
 

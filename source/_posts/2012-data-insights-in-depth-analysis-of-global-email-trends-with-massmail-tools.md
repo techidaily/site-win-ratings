@@ -1,7 +1,7 @@
 ---
 title: "2012 Data Insights: In-Depth Analysis of Global Email Trends with MassMail Tools"
-date: 2024-10-28T21:38:09.879Z
-updated: 2024-11-04T01:58:29.283Z
+date: 2024-11-11T02:56:53.121Z
+updated: 2024-11-12T20:19:56.229Z
 tags:
   - product
 categories:
@@ -23,10 +23,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -57,6 +57,19 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -69,26 +82,27 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -99,10 +113,10 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -117,27 +131,20 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -146,13 +153,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -173,19 +173,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-navigating-snapchats-call-feature-in-three-steps/"><u>[New] Navigating Snapchat's Call Feature in Three Steps</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-guide-to-superior-4ks/"><u>[Updated] The Ultimate Guide to Superior 4Ks</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-tecno-pop-7-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Tecno Pop 7 Pro Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/aomei-backupper-in-depth-guide-to-advanced-configuration-options/"><u>AOMEI Backupper: In-Depth Guide to Advanced Configuration Options</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/aomei-pc-technician-plus-and-cyber-backup/"><u>AOMEI PC/サーバーバックアップ全量購入可能 技術者向けTechnician Plus & Cyber Backup</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/best-conversion-techniques-youtube-to-mpeg-encoding-for-2024/"><u>Best Conversion Techniques YouTube to MPEG Encoding for 2024</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/command-promptwindows/"><u>COMMAND PROMPTによる効果的なWindowsシステム修復方法のレッスン</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Sony Xperia 10 V? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-y28-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Y28 5G using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-sony-xperia-1-v-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Sony Xperia 1 V Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/innovating-messaging-sounds-a-guide-to-downloading-and-personalizing-whatsapp-ringtones-for-2024/"><u>Innovating Messaging Sounds A Guide to Downloading & Personalizing WhatsApp Ringtones for 2024</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/klinische-migration-umzug-von-daten-auf-eine-neue-ssd-oder-vm-klonung-mit-hilfe-von-vmware/"><u>Klinische Migration: Umzug Von Daten Auf Eine Neue SSD Oder VM-Klonung Mit Hilfe Von Vmware</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/top-rated-desk-chair-picks-expert-reviews-from-zdnet/"><u>Top-Rated Desk Chair Picks - Expert Reviews From ZDNet</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/windows-11-uefi-u-bot-usb/"><u>Windows 11 UEFI 下启动 U-Bot USB 制作指南：简单三条法则</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-blending-bits-volume-manipulation-mastery-with-reaper-for-2024/"><u>[Updated] Blending Bits Volume Manipulation Mastery with Reaper for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/administrar-actualizaciones-en-windows-11-tres-estrategias-clave-para-la-organizacion-y-el-rendimiento-del-equipo/"><u>Administrar Actualizaciones en Windows 11: Tres Estrategias Clave Para La Organización Y El Rendimiento Del Equipo</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/automatisches-loschen-von-downloads-unter-windows-10-endgultige-losung/"><u>Automatisches Löschen Von Downloads Unter Windows 10 - Endgültige Lösung</u></a></li>
+<li><a href="https://extra-information.techidaily.com/command-the-field-with-a-customized-in-game-character-voice-in-free-fire/"><u>Command the Field with a Customized In-Game Character Voice in Free Fire</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-lenovo-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Lenovo Pattern Lock Screen</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/how-to-enable-and-perform-a-successful-factory-reset-without-dells-default-options-expert-tips-and-tricks/"><u>How to Enable and Perform a Successful Factory Reset Without Dell’s Default Options: Expert Tips & Tricks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-asus-rog-phone-7-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Asus ROG Phone 7 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-infinix-hot-30-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix Hot 30 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrate-bandwidth-status-into-windows-shell/"><u>Integrate Bandwidth Status Into Windows Shell</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-complete-tutorial-on-augmenting-android-video-projects-with-essential-audioscapes-for-2024/"><u>New The Complete Tutorial on Augmenting Android Video Projects with Essential Audioscapes for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/simple-steps-to-resetting-your-default-apps-on-windows-7/"><u>Simple Steps to Resetting Your Default Apps on Windows 7</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/step-by-step-guide-to-cloning-your-active-partition-on-windows-server-2016/"><u>Step-by-Step Guide to Cloning Your Active Partition on Windows Server 2016</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/transferring-notes-from-iphone-to-iphone-without-a-computer/"><u>Transferring Notes From iPhone to iPhone - Without a Computer</u></a></li>
 </ul></div>
 

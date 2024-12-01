@@ -1,7 +1,7 @@
 ---
 title: "Mastering Credit Cards in 2009: Insider Secrets & Strategies - Powerful Tools From MassMail"
-date: 2024-11-19T05:07:43.156Z
-updated: 2024-11-22T19:09:32.637Z
+date: 2024-11-23T19:53:09.503Z
+updated: 2024-11-30T19:00:49.296Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -40,6 +40,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -49,7 +53,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -74,13 +78,13 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -99,20 +103,20 @@ When promoting your vanity short code, always provide the short code’s digits 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-6-best-digital-canvases-ideal-nft-services-for-artists/"><u>[New] 2024 Approved The 6 Best Digital Canvases Ideal NFT Services For Artists</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-personal-vlogs-that-resonate-deeply-with-viewers/"><u>[New] Personal Vlogs That Resonate Deeply With Viewers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-route-to-richer-tiktok-bios-including-linktree-links/"><u>[New] The Route to Richer TikTok Bios Including Linktree Links</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/5-windows-11/"><u>5無需花錢的解決方案：如何在 Windows 11 中復原被移除的檔案完整教學</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/1728461263224-windows/"><u>分步學習Windows術語：如何在系統中回收已逐一移除的影像資料</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-1067-explained-steps-to-prevent-unexpected-windows-process-terminations/"><u>Error Code 1067 Explained: Steps to Prevent Unexpected Windows Process Terminations</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/essential-10-sport-streaming-tools-for-football-enthusiasts/"><u>Essential 10 Sport Streaming Tools for Football Enthusiasts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-overcoming-custom-settings-that-wont-respond-anymore/"><u>Expert Tips for Overcoming Custom Settings That Won't Respond Anymore</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ghostly-replay-techniques-for-editors-for-2024/"><u>Ghostly Replay Techniques for Editors for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-on-windows-10-and-7-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually on Windows 10 & 7</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/how-to-recover-missing-youtube-videos-from-2021-2024-a-step-by-step-guide/"><u>How to Recover Missing YouTube Videos From 2021-2024 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/how-to-restore-and-retrieve-your-accidentally-removed-content-on-instagram/"><u>How to Restore and Retrieve Your Accidentally Removed Content on Instagram</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-depth-dive-perfecting-the-art-of-green-screen-with-kinemaster/"><u>In-Depth Dive Perfecting the Art of Green Screen with Kinemaster</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/maximizing-visibility-the-top-reasons-why-social-bookmarking-excels-with-massmail-software-solutions/"><u>Maximizing Visibility: The Top Reasons Why Social Bookmarking Excels with MassMail Software Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-2024-starfield-high-cpu-utilization-problem-top-strategies/"><u>Resolving the 2024 Starfield High CPU Utilization Problem: Top Strategies</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/rettung-und-wiederherstellung-von-raw-bilddateien-anleitung-fur-die-reparatur-ihrer-sd-karten/"><u>Rettung Und Wiederherstellung Von RAW-Bilddateien - Anleitung Für Die Reparatur Ihrer SD-Karten</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/schritt-fur-schritt-anleitung-zum-kopieren-von-fotos-auf-eine-sichere-weise-von-ihrer-sd-karte/"><u>Schritt-Für-Schritt-Anleitung Zum Kopieren Von Fotos Auf Eine Sichere Weise Von Ihrer SD-Karte</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/speedy-guide-transferring-videography-from-ipad-straight-to-desktop-computer/"><u>Speedy Guide: Transferring Videography From iPad Straight to Desktop Computer</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/1728470605944-windows-10/"><u>Windows 10におけるデータセキュリティ強化：ファイルを自動的にバックアップする方法</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-from-screen-to-disk-techniques-for-effortless-internet-show-recording/"><u>2024 Approved From Screen To Disk Techniques for Effortless Internet Show Recording</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/comment-faire-des-copies-sauvegarde-de-la-cle-usb-pour-le-deploiement-de-windows-10-sur-dautres-ordinateurs/"><u>Comment Faire Des Copies Sauvegarde De La Clé USB Pour Le Déploiement De Windows 10 Sur D'autres Ordinateurs ?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-giggle-enhancer-for-images-for-2024/"><u>Expert Giggle Enhancer for Images for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-the-latest-lenovo-y900-driver-updates-compatible-with-windows-11-step-by-step-instructions/"><u>Get the Latest Lenovo Y900 Driver Updates Compatible with Windows 11 - Step-by-Step Instructions</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/guide-complet-pour-la-reconstruction-de-windows-11-sans-utiliser-un-punkt-der-wiederherstellung/"><u>Guide Complet Pour La Reconstruction De Windows 11 Sans Utiliser Un Punkt Der Wiederherstellung</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/guide-pratique-pour-transferer-des-donnees-sur-votre-appareil-samsung-via-usb-en-mode-bootable-etape-par-etape/"><u>Guidé Pratique Pour Transférer Des Données Sur Votre Appareil Samsung via USB en Mode Bootable - Étape Par Étape !</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-15-pro-max-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-a-peek-into-the-viral-world-of-stock-photo-memes/"><u>In 2024, A Peek Into the Viral World of Stock Photo Memes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-focus-frameworks-key-tools-to-brighten-videos/"><u>In 2024, Focus Frameworks Key Tools to Brighten Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/netgear-readynas-compatible-backup-solution-for-free-with-aomei-backupper-software-enhance-data-security/"><u>NETGEAR ReadyNAS Compatible Backup Solution for Free with AOMEI Backupper Software - Enhance Data Security!</u></a></li>
+<li><a href="https://article-files.techidaily.com/pearl-like-pixels-tips-for-perfect-underwater-footage-with-gopro/"><u>Pearl-Like Pixels Tips for Perfect Underwater Footage with GoPro</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/resolve-windows-11-launch-failures-with-effective-startup-repair-solutions/"><u>Resolve Windows 11 Launch Failures with Effective Startup Repair Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/seamless-transition-turning-mac-videos-into-discs/"><u>Seamless Transition Turning Mac Videos Into Discs</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/simple-solutions-resolving-iphones-wi-fi-connectivity-issues-after-ios-1817-upgrade/"><u>Simple Solutions: Resolving iPhone's Wi-Fi Connectivity Issues After iOS 18/17 Upgrade</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-hdmi-splitter-reviews-find-the-ideal-one/"><u>Top-Rated HDMI Splitter Reviews: Find the Ideal One</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/transferring-data-from-hard-drive-to-sandisk-ssd-in-windows-11-step-by-step-guide/"><u>Transferring Data From Hard Drive to SanDisk SSD in Windows 11 - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/ultimate-guide-free-data-recovery-solutions-for-your-windows-10-pcs-usb-drives/"><u>Ultimate Guide: FREE Data Recovery Solutions for Your Windows 10 PC's USB Drives</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/verlorene-apps-auf-ihrem-windows-desktop-wiederfinden-losungen-fur-windows-10-8-und-7/"><u>Verlorene Apps Auf Ihrem Windows-Desktop Wiederfinden: Lösungen Für Windows 10, 8 Und 7</u></a></li>
 </ul></div>
 

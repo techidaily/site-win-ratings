@@ -1,7 +1,7 @@
 ---
 title: "Unveiling The Phenomenon Behind Ape Labs Lighting: Comprehensive Insights & Critique"
-date: 2024-11-28T00:35:01.991Z
-updated: 2024-12-01T01:32:01.180Z
+date: 2024-12-05T17:48:19.743Z
+updated: 2024-12-09T02:22:24.618Z
 tags:
   - product
 categories:
@@ -32,6 +32,10 @@ While China is known as a world-wide manufacturing powerhouse, they aren’t exa
 
 [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) started producing wireless, battery powered LED lights in 2008\. Originally, they were made in China (like all of the other popular lighting brands). However, they moved the entire manufacturing operation to their home country of Germany in 2015 after several different Chinese factories failed to produce to German standards.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## #2 – Their Sound Active Feature is Mesmerizing.
 
 Before [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80), most lighting pros stayed away from the sound active feature….especially with wash lights. With most other brands, it’s typically just a stobe effect that changes colors on some low frequency notes.
@@ -44,10 +48,6 @@ Also, the sound active feature can be set so all Ape Labs products are triggered
 
 **Check out this clip which is displaying (10) ApeStick 4’s and (4) LightCan’s:**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## #3 – They Take Wireless Control & Battery Power to the Next Level.
 
 The DMX wireless range on [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) products is rated at over 3,000 ft. The RF remote control range is rated at over 200 ft. And the battery life of their most popular uplight has been tested to run nearly 15 hours at full power. But that’s not all.
@@ -57,10 +57,6 @@ Ape Labs fixtures all use the same softare and comminute with eachother. This me
 **Check out this remote distance test:**
 
 **And this battery life test:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## #4 – Eveything is Simple & Easy.
 
@@ -76,10 +72,6 @@ EXPAND IMAGE
 
 ![APE LABS Remote Graphic](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/02/APE-LABS-Remote-Graphic.png?fit=1030%2C796&ssl=1 "APE LABS Remote Graphic")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## #5 – Size & Weight.
 
 All [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) products are extremely small and light-weight. The most popular Ape Labs product in the world is the LightCan, which is exactly the size of a RedBull can.
@@ -87,7 +79,7 @@ All [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) products are 
 The most popular Ape Labs product in the USA is their traditional uplight called the ApeLight Maxi. This unit is 3.3lbs. A case of six is only 34lbs, including the weight of the charging case. **To put that into perspective, check out this video:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## #6 – 3-Year Warranty, European Build Quality, but Same Pricing.
@@ -98,10 +90,14 @@ Fortunately, [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) prod
 
 [EXPAND IMAGE ![Ape Labs Comparison Chart](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/02/Ape-Labs-Comparison-Chart-9x12-new.png?fit=773%2C1030&ssl=1 "Ape Labs Comparison Chart")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/02/Ape-Labs-Comparison-Chart-9x12-new.png?fit=773%2C1030&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You may have noticed that the ApeLight Maxi is listed as “water resistant” but doesn’t actually give an official IP rating in the specs. **To help you understand what they mean by “water resistant”, check out:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More questions? Check out these reviews:
@@ -115,6 +111,10 @@ You may have noticed that the ApeLight Maxi is listed as “water resistant” b
 We hope you enjoyed the review and run down on Ape Labs lighting. For more information and to review all Ape Labs products please visit KPODJ by clicking the button below.
 
 [VIEW APE LABS LIGHTING PRODUCTS](https://www.apelabsusa.com/product/maxi#9fb11cfd80)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -135,19 +135,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/02/apelabs-review-cover.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-essential-guidelines-for-creating-compelling-youtube-shorts-templates/"><u>[New] 2024 Approved Essential Guidelines for Creating Compelling YouTube Shorts Templates</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-unleash-the-power-of-pixels-expert-tips-on-live-tv-recording-with-windows-pc-for-2024/"><u>[Updated] Unleash the Power of Pixels Expert Tips on Live TV Recording with Windows PC for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/des-solutions-rapides-pour-reparer-un-disque-dur-externe-bruyant-non-detecte-6-methodes-efficaces/"><u>Des Solutions Rapides Pour Réparer Un Disque Dur Externe Bruyant Non Détecté - 6 Méthodes Efficaces</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-oppo-find-x7-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Oppo Find X7 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/macbook-proair/"><u>MacBook Pro/Air 出現黑屏怎解決？前八位置修复技巧</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/section-4a-advanced-topic-the-role-of-cyber-diplomacy-in-international-relations/"><u>Section 4A: Advanced Topic - The Role of Cyber Diplomacy in International Relations</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/solving-the-mbr-cannot-hold-windows-installation-issue-on-windows-11/"><u>Solving the 'MBR Cannot Hold Windows Installation' Issue on Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-next-leap-in-ai-desired-upgrades-for-gpt/"><u>The Next Leap in AI: Desired Upgrades for GPT-</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/transferring-your-data-securely-backing-up-files-on-windows-11-using-an-external-hdd-three-methods-explored/"><u>Transferring Your Data Securely: Backing Up Files on Windows 11 Using an External HDD - Three Methods Explored</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/warum-mcafee-ihre-dateien-loscht-ursachen-und-effektive-gegenmassnahmen/"><u>Warum McAfee Ihre Dateien Löscht - Ursachen Und Effektive Gegenmaßnahmen</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/why-ive-fallen-in-love-with-the-apple-watch-ultra-2-special-labor-day-offer-saves-you-100-zdnet/"><u>Why I've Fallen in Love with the Apple Watch Ultra 2 - Special Labor Day Offer Saves You $100 | ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/astering-the-art-of-attention-retention-on-youtube-with-these-6-tactics-for-2024/"><u>[New] Mastering the Art of Attention Retention on YouTube with These 6 Tactics for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-2023s-approach-tweeting-from-tiktok/"><u>[Updated] 2024 Approved 2023'S Approach Tweeting From TikTok</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-your-gateway-to-youtube-entrepreneurship-the-best-10-easy-to-create-channels/"><u>[Updated] Your Gateway to YouTube Entrepreneurship The Best 10 Easy-to-Create Channels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-success-with-tinder-profiles-check-out-these-hacks-now/"><u>2024 Approved Quick Success with Tinder Profiles? Check Out These Hacks Now</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/accelerate-your-pcs-performance-effective-strategies-to-delete-superfluous-applications-tips-from-yl-computing/"><u>Accelerate Your PC's Performance: Effective Strategies to Delete Superfluous Applications - Tips From YL Computing</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ensuring-compliance-key-points-for-successful-legal-email-marketing-campaigns-with-massmail/"><u>Ensuring Compliance: Key Points for Successful Legal Email Marketing Campaigns with MassMail</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/mastering-your-devices-sound-configuration-expert-tips-from-yl-computing/"><u>Mastering Your Device's Sound Configuration: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/money-making-moves-now-with-over-500-subscribers-for-2024/"><u>Money-Making Moves Now With Over 500 Subscribers for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/pre-investment-checklist-navigating-the-world-of-cryptocurrency-with-yls-insights/"><u>Pre-Investment Checklist: Navigating the World of Cryptocurrency with YL's Insights</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/quick-fixes-and-optimizations-for-faster-performance-tips-by-yl-software-professionals/"><u>Quick Fixes & Optimizations for Faster Performance - Tips by YL Software Professionals</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/quick-draining-printer-cartridges-unveiling-the-mystery-with-yl-computings-expertise/"><u>Quick-Draining Printer Cartridges: Unveiling the Mystery with YL Computing’s Expertise</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/troubleshooting-your-sound-card-insights-and-solutions-by-yl-software-professionals/"><u>Troubleshooting Your Sound Card: Insights and Solutions by YL Software Professionals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/typing-titanics-crafting-custom-hotkeys-to-snap-and-snag-predefined-text/"><u>Typing Titanics: Crafting Custom Hotkeys to Snap and Snag Predefined Text</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/understanding-the-impact-of-digital-threats-on-processor-health-a-guide-by-yl-software-experts/"><u>Understanding the Impact of Digital Threats on Processor Health - A Guide by YL Software Experts</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/unlock-the-secrets-of-adjusting-windows-printer-properties-with-expertise-from-yl-software/"><u>Unlock the Secrets of Adjusting Windows Printer Properties with Expertise From YL Software</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/unveiling-the-historical-importance-decoding-the-great-walls-impact-discovered-by-yl-tech-experts/"><u>Unveiling the Historical Importance: Decoding the Great Wall's Impact - Discovered by YL Tech Experts</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-creative-freedom-at-no-cost-top-free-audio-engineering-tools-of-the-year/"><u>Updated In 2024, Creative Freedom at No Cost Top Free Audio Engineering Tools of the Year</u></a></li>
 </ul></div>
 

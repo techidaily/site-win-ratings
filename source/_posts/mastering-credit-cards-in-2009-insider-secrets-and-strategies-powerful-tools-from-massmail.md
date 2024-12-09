@@ -1,7 +1,7 @@
 ---
 title: "Mastering Credit Cards in 2009: Insider Secrets & Strategies - Powerful Tools From MassMail"
-date: 2024-11-23T19:53:09.503Z
-updated: 2024-11-30T19:00:49.296Z
+date: 2024-12-04T00:56:43.927Z
+updated: 2024-12-09T03:29:45.059Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -40,10 +40,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -51,10 +47,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -82,41 +74,45 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-from-screen-to-disk-techniques-for-effortless-internet-show-recording/"><u>2024 Approved From Screen To Disk Techniques for Effortless Internet Show Recording</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/comment-faire-des-copies-sauvegarde-de-la-cle-usb-pour-le-deploiement-de-windows-10-sur-dautres-ordinateurs/"><u>Comment Faire Des Copies Sauvegarde De La Clé USB Pour Le Déploiement De Windows 10 Sur D'autres Ordinateurs ?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-giggle-enhancer-for-images-for-2024/"><u>Expert Giggle Enhancer for Images for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-the-latest-lenovo-y900-driver-updates-compatible-with-windows-11-step-by-step-instructions/"><u>Get the Latest Lenovo Y900 Driver Updates Compatible with Windows 11 - Step-by-Step Instructions</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/guide-complet-pour-la-reconstruction-de-windows-11-sans-utiliser-un-punkt-der-wiederherstellung/"><u>Guide Complet Pour La Reconstruction De Windows 11 Sans Utiliser Un Punkt Der Wiederherstellung</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/guide-pratique-pour-transferer-des-donnees-sur-votre-appareil-samsung-via-usb-en-mode-bootable-etape-par-etape/"><u>Guidé Pratique Pour Transférer Des Données Sur Votre Appareil Samsung via USB en Mode Bootable - Étape Par Étape !</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-15-pro-max-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-a-peek-into-the-viral-world-of-stock-photo-memes/"><u>In 2024, A Peek Into the Viral World of Stock Photo Memes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-focus-frameworks-key-tools-to-brighten-videos/"><u>In 2024, Focus Frameworks Key Tools to Brighten Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On HTC U23? | Dr.fone</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/netgear-readynas-compatible-backup-solution-for-free-with-aomei-backupper-software-enhance-data-security/"><u>NETGEAR ReadyNAS Compatible Backup Solution for Free with AOMEI Backupper Software - Enhance Data Security!</u></a></li>
-<li><a href="https://article-files.techidaily.com/pearl-like-pixels-tips-for-perfect-underwater-footage-with-gopro/"><u>Pearl-Like Pixels Tips for Perfect Underwater Footage with GoPro</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/resolve-windows-11-launch-failures-with-effective-startup-repair-solutions/"><u>Resolve Windows 11 Launch Failures with Effective Startup Repair Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/seamless-transition-turning-mac-videos-into-discs/"><u>Seamless Transition Turning Mac Videos Into Discs</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/simple-solutions-resolving-iphones-wi-fi-connectivity-issues-after-ios-1817-upgrade/"><u>Simple Solutions: Resolving iPhone's Wi-Fi Connectivity Issues After iOS 18/17 Upgrade</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-hdmi-splitter-reviews-find-the-ideal-one/"><u>Top-Rated HDMI Splitter Reviews: Find the Ideal One</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/transferring-data-from-hard-drive-to-sandisk-ssd-in-windows-11-step-by-step-guide/"><u>Transferring Data From Hard Drive to SanDisk SSD in Windows 11 - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/ultimate-guide-free-data-recovery-solutions-for-your-windows-10-pcs-usb-drives/"><u>Ultimate Guide: FREE Data Recovery Solutions for Your Windows 10 PC's USB Drives</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/verlorene-apps-auf-ihrem-windows-desktop-wiederfinden-losungen-fur-windows-10-8-und-7/"><u>Verlorene Apps Auf Ihrem Windows-Desktop Wiederfinden: Lösungen Für Windows 10, 8 Und 7</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-behind-the-curtain-peek-tracking-insta-post-watchers/"><u>[New] 2024 Approved Behind-the-Curtain Peek Tracking Insta Post Watchers</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/accelerate-your-pcs-performance-effective-strategies-to-delete-superfluous-applications-tips-from-yl-computing/"><u>Accelerate Your PC's Performance: Effective Strategies to Delete Superfluous Applications - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/dynamic-iphone-photography-the-key-to-capturing-motion-blur/"><u>Dynamic iPhone Photography The Key to Capturing Motion Blur</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-transformation-the-ultimate-tutorial-for-converting-webm-to-high-quality-m4a-audio-files/"><u>Effortless Transformation: The Ultimate Tutorial for Converting WebM to High-Quality M4A Audio Files</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/exploring-the-dynamics-of-fb-video-speeds-for-2024/"><u>Exploring the Dynamics of FB Video Speeds for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/exploring-the-locations-of-the-historic-opium-conflicts-a-detailed-guide-by-yl-technology-solutions/"><u>Exploring the Locations of the Historic Opium Conflicts: A Detailed Guide by YL Technology Solutions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/huaweis-built-in-recorder-screen-capture-for-mate-and-p-series-for-2024/"><u>Huawei's Built-In Recorder Screen Capture for Mate and P Series for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/identifying-the-reasons-behind-audio-distortion-crackles-and-stutters-expert-insights-from-yl-computing/"><u>Identifying the Reasons Behind Audio Distortion: Crackles & Stutters - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/personalizing-mouse-configuration-navigating-the-control-panel-with-yl-computings-user-friendly-tips/"><u>Personalizing Mouse Configuration: Navigating the Control Panel with YL Computing's User-Friendly Tips</u></a></li>
+<li><a href="https://win-help.techidaily.com/probleme-de-migration-des-donnees-intels-resolution-impossible/"><u>Probleme De Migration Des Données Intels - Résolution Impossible</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/reactivating-windows-defender-for-optimal-protection-tips-from-yl-computing-expertise/"><u>Reactivating Windows Defender for Optimal Protection: Tips From YL Computing Expertise</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/safeguarding-against-crypto-scams-effective-strategies-by-yl-computing/"><u>Safeguarding Against Crypto-Scams: Effective Strategies by YL Computing</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/step-by-step-guide-resizing-text-in-the-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Resizing Text in the Control Panel – Tips From YL Computing</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/understanding-the-impact-of-digital-threats-on-processor-health-a-guide-by-yl-software-experts/"><u>Understanding the Impact of Digital Threats on Processor Health - A Guide by YL Software Experts</u></a></li>
 </ul></div>
 

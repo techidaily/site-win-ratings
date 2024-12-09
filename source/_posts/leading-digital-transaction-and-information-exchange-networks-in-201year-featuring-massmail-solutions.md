@@ -1,7 +1,7 @@
 ---
 title: Leading Digital Transaction and Information Exchange Networks in 201^[Year] Featuring MassMail Solutions
-date: 2024-11-27T02:56:32.589Z
-updated: 2024-11-30T19:33:04.025Z
+date: 2024-12-04T11:52:43.816Z
+updated: 2024-12-09T10:18:48.456Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -37,7 +41,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -48,19 +52,11 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -82,10 +78,6 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -98,10 +90,6 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
@@ -110,17 +98,25 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,16 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-ratings.techidaily.com/como-elegir-el-mejor-reemplazo-de-xcopy-en-windows-7-10-guia-comparativa/"><u>Cómo Elegir El Mejor Reemplazo De Xcopy en Windows 7 / 10: Guía Comparativa</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-frame-sequencer-pro-package/"><u>Elite Frame Sequencer Pro Package</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-realme-11-proplus-lock-screen-password-by-drfone-android/"><u>How to Reset your Realme 11 Pro+ Lock Screen Password</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/hurry-last-chance-to-secure-free-macxdvd-iphone-manager-for-your-device-plus-exclusive-iphone-xr-giveaway/"><u>Hurry! Last Chance to Secure Free MacXDVD iPhone Manager for Your Device + Exclusive iPhone XR Giveaway!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-strategic-use-of-slug-lines-in-blogging/"><u>In 2024, Strategic Use of Slug Lines in Blogging</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/komplettes-handbuch-zum-synchronisieren-von-dateien-und-ordnern-unter-windows-7/"><u>Komplettes Handbuch Zum Synchronisieren Von Dateien Und Ordnern Unter Windows 7</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/resolve-your-laptops-disk-read-error-quickly-proven-5-methods-and-insider-advice/"><u>Resolve Your Laptop's Disk Read Error Quickly - Proven 5 Methods & Insider Advice</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/troubleshoot-your-mac-easy-steps-for-successfully-shifting-files-onto-external-drives/"><u>Troubleshoot Your Mac - Easy Steps for Successfully Shifting Files Onto External Drives</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-converting-hevc-videos-into-mp4-with-advanced-h264-codec-best-tools-reviewed/"><u>Ultimate Guide to Converting HEVC Videos Into MP4 with Advanced H.264 Codec – Best Tools Reviewed</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-best-video-tagging-software-for-windows-and-macos-for-2024/"><u>Updated Best Video Tagging Software for Windows and macOS for 2024</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/1728509014401-windows-server-2012/"><u>Windows Server 2012用最適なディスクイメージ製作ツール - お勧めレコメンド</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-assessing-the-financial-impact-of-music-videos/"><u>[New] Assessing the Financial Impact of Music Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-jestful-joymaker-online/"><u>[New] In 2024, Jestful Joymaker Online</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-how-to-channel-your-inner-metaverse-wit-for-2024/"><u>[Updated] How to Channel Your Inner Metaverse Wit for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/clear-up-those-visual-glitches-a-step-by-step-guide-to-troubleshooting-monitors-by-yl-software-professionals/"><u>Clear Up Those Visual Glitches: A Step-by-Step Guide to Troubleshooting Monitors by YL Software Professionals</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/fix-unresponsive-hard-disks-in-windows-essential-guide-by-yl-software-experts/"><u>Fix Unresponsive Hard Disks in Windows: Essential Guide by YL Software Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-razer-drivers-compatible-with-windows-10-8-7-xp-and-vista/"><u>Get the Latest Razer Drivers Compatible with Windows 10, 8, 7, XP & Vista</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-motorola-moto-g34-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Motorola Moto G34 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-enable-miracast-on-unsupported-hardware-comprehensive-guide/"><u>How To Enable Miracast on Unsupported Hardware: Comprehensive Guide</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/keep-your-pc-speedy-ideal-intervals-for-cleanup-and-upkeep-recommended-by-yl-technology-experts-yl-software-advice/"><u>Keep Your PC Speedy: Ideal Intervals for Cleanup and Upkeep Recommended by YL Technology Experts | YL Software Advice</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/resolving-driver-software-conflicts-expert-tips-from-yl-computing/"><u>Resolving Driver Software Conflicts - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/vibrant-and-expressive-imagery-explore-the-creative-world-of-paula-garces-with-premium-wallpapers-from-yl-software/"><u>Vibrant & Expressive Imagery: Explore the Creative World of Paula Garcés with Premium Wallpapers From YL Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/your-2023-guide-best-applications-for-downloading-lite-facebook-videos/"><u>Your 2023 Guide Best Applications for Downloading Lite Facebook Videos</u></a></li>
 </ul></div>
 

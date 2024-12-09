@@ -1,7 +1,7 @@
 ---
 title: "2012 Data Insights: In-Depth Analysis of Global Email Trends with MassMail Tools"
-date: 2024-11-26T03:30:06.277Z
-updated: 2024-12-01T07:06:22.420Z
+date: 2024-12-06T03:12:23.996Z
+updated: 2024-12-09T11:58:32.977Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -33,7 +37,7 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
@@ -41,7 +45,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -74,20 +78,20 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -98,10 +102,6 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
@@ -110,13 +110,13 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -149,19 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/rafting-kingdom-the-path-to-youtube-mastery/"><u>[New] Crafting Kingdom The Path to YouTube Mastery</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722880274817-complete-epic-of-dragons-and-riders-ordering-the-how-to-train-your-dragon-movie-series/"><u>Complete Epic of Dragons and Riders - Ordering the How to Train Your Dragon Movie Series</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/des-solutions-rapides-pour-reparer-un-disque-dur-externe-bruyant-non-detecte-6-methodes-efficaces/"><u>Des Solutions Rapides Pour Réparer Un Disque Dur Externe Bruyant Non Détecté - 6 Méthodes Efficaces</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/explore-laughter-tears-fusion-the-best-ig-accounts-ever-for-2024/"><u>Explore Laughter-Tears Fusion The Best IG Accounts Ever for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/exploring-camstudios-impact-on-video-capture-2023-edition/"><u>Exploring CamStudio's Impact on Video Capture - 2023 Edition</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-hit-the-jackpot-of-humor-craft-top-tier-youtube-reaction-videos-3-techniques/"><u>In 2024, Hit the Jackpot of Humor – Craft Top-Tier YouTube Reaction Videos (3 Techniques)</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/losungen-finden-probleme-zugriff-verweigert-auf-bereitgestellten-speicher-sicherungsvolumes/"><u>Lösungen Finden: Probleme Zugriff Verweigert Auf Bereitgestellten Speicher-Sicherungsvolumes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/pause-your-avg-antivirus-software-free-edition-version-2015-instructions-for-users/"><u>Pause Your AVG Antivirus Software (Free Edition, Version 2015): Instructions for Users</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/solving-the-mbr-cannot-hold-windows-installation-issue-on-windows-11/"><u>Solving the 'MBR Cannot Hold Windows Installation' Issue on Windows 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/streamlining-photo-editing-processes-a-guide-for-2024/"><u>Streamlining Photo Editing Processes A Guide for 2024</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/transferring-your-data-securely-backing-up-files-on-windows-11-using-an-external-hdd-three-methods-explored/"><u>Transferring Your Data Securely: Backing Up Files on Windows 11 Using an External HDD - Three Methods Explored</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/warum-mcafee-ihre-dateien-loscht-ursachen-und-effektive-gegenmassnahmen/"><u>Warum McAfee Ihre Dateien Löscht - Ursachen Und Effektive Gegenmaßnahmen</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/windows-11-10-8-7-hdd/"><u>Windows 11, 10, 8, 7 HDD 交換前の重要なデータ保存ガイド</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-media-top-ranking-camera-apps-for-iphonesandroid-devices/"><u>[New] 2024 Approved Exploring Media Top-Ranking Camera Apps for iPhones/Android Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-14-youtube-adsense-earnings-how-much-does-adsense-pay-per-1000-views/"><u>[Updated] 2024 Approved 14- YouTube AdSense Earnings How Much Does AdSense Pay per 1,000 Views</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-proven-screenshot-solutions-for-the-cost-conscious-techie/"><u>[Updated] In 2024, Proven Screenshot Solutions for the Cost-Conscious Techie</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-overcoming-quietness-fixes-for-silent-obs-streams/"><u>[Updated] Overcoming Quietness Fixes for Silent OBS Streams</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1-enhancing-pc-performance-can-system-updates-boost-speed-yl-tech-insights/"><u>1. Enhancing PC Performance: Can System Updates Boost Speed - YL Tech Insights</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/5-effective-techniques-to-clear-up-ram-and-boost-your-pcs-speed-tips-by-yl-computing/"><u>5 Effective Techniques to Clear Up RAM and Boost Your PC's Speed - Tips by YL Computing</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1732516547063-yl-computing-yl-software/"><u>研究汉武帝时代哪些改革推动了中国文明进步 - YL Computing | YL Software</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/brazilian-vs-eu-portuguese-a-linguistic-comparison/"><u>Brazilian Vs. EU Portuguese: A Linguistic Comparison</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/founder-of-the-peoples-republic-of-china-a-comprehensive-overview-by-yl-computing-and-yl-software/"><u>Founder of the People's Republic of China: A Comprehensive Overview by YL Computing & YL Software</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/graphics-card-troubles-are-incorrect-setup-settings-the-culprit-insights-by-yl-software-experts/"><u>Graphics Card Troubles: Are Incorrect Setup Settings the Culprit? Insights by YL Software Experts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-honor-x50-gt-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Honor X50 GT to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/identifying-malfunctioning-hardware-a-guide-by-yl-computing/"><u>Identifying Malfunctioning Hardware: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-your-wow-gameplay-to-avoid-slowdowns-and-lag/"><u>Optimizing Your WoW Gameplay to Avoid Slowdowns and Lag</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/revive-your-scanner-on-windows-with-a-fresh-installation-expert-advice-by-yl-software-solutions/"><u>Revive Your Scanner on Windows with a Fresh Installation: Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/starter-selection-affordable-site-purchases-for-beginners/"><u>Starter Selection Affordable Site Purchases for Beginners</u></a></li>
 </ul></div>
 

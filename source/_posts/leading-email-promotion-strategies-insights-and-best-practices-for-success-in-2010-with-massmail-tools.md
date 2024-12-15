@@ -1,7 +1,7 @@
 ---
 title: "Leading Email Promotion Strategies: Insights and Best Practices for Success in 2010 with MassMail Tools"
-date: 2024-12-06T04:14:13.234Z
-updated: 2024-12-08T22:31:35.030Z
+date: 2024-12-14T16:25:51.215Z
+updated: 2024-12-15T16:03:00.528Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -36,12 +32,16 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -51,10 +51,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -86,29 +82,33 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -118,6 +118,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,21 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-filmmakers-essential-guide-to-free-royalty-free-audiosites/"><u>[New] 2024 Approved A Filmmaker's Essential Guide to Free Royalty-Free Audiosites</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-venturing-beyond-reality-understanding-vr-basics/"><u>[New] Venturing Beyond Reality Understanding VR Basics</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-visual-flow-control-simple-fade-strategies/"><u>[Updated] 2024 Approved Visual Flow Control Simple Fade Strategies</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-harnessing-power-in-pixels-top-10-instagram-video-ad-mastery-techniques/"><u>[Updated] In 2024, Harnessing Power in Pixels Top 10 Instagram Video Ad Mastery Techniques</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-easy-to-follow-steps-for-android-video-capture/"><u>2024 Approved Easy-to-Follow Steps for Android Video Capture</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/1732516748065-yl-yl/"><u>掌握电子商务分析脚本，增加转化率—YL科技 | YL软件专利解析</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/choosing-the-right-antivirus-a-comprehensive-guide-by-yl-computing/"><u>Choosing the Right Antivirus: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/comprehensive-guide-to-shielding-your-computer-from-cyber-threats-like-viruses-and-spyware-by-yl-software-experts/"><u>Comprehensive Guide to Shielding Your Computer From Cyber Threats Like Viruses & Spyware by YL Software Experts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gratis-global-photo-perfection-suite-for-2024/"><u>Gratis Global Photo Perfection Suite for 2024</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/high-resolution-lily-collins-wallpaper-collection-crystal-clear-hd-imagery-by-yl-computing/"><u>High-Resolution Lily Collins Wallpaper Collection - Crystal Clear HD Imagery by YL Computing</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/identifying-the-causes-behind-processor-heat-up-issues-insights-from-yl-computing-and-yl-software/"><u>Identifying the Causes Behind Processor Heat-Up Issues - Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/maximizing-your-video-cards-efficiency-tips-from-yl-software-experts/"><u>Maximizing Your Video Card's Efficiency: Tips From YL Software Experts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/minimize-time-maximize-results-with-this-srt-to-txt-hack-for-2024/"><u>Minimize Time, Maximize Results with This SRT to TXT Hack for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/the-ultimate-guide-to-turning-fb-videos-into-audible-mp3s-for-2024/"><u>The Ultimate Guide to Turning Fb Videos Into Audible MP3s for 2024</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/uncovering-reasons-why-your-installer-might-fail-insights-from-yl-computings-expertise/"><u>Uncovering Reasons Why Your Installer Might Fail: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-11-video-driver-glitch-fix-for-the-notorious-atikmpagsys-and-tdr-errors-solution/"><u>Windows 11 Video Driver Glitch: Fix for the Notorious atikMPAG.sys and TDR Errors [Solution]</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-mastering-speed-with-premium-controller-add-ons-for-2024/"><u>[New] Mastering Speed with Premium Controller Add-Ons for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-your-first-encounter-with-snapseed-image-editing-for-2024/"><u>[New] Your First Encounter with Snapseed Image Editing for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-leveraging-youtubes-algorithm-a-comprehensive-guide-to-seo-for-2024/"><u>[Updated] Leveraging YouTube's Algorithm A Comprehensive Guide to SEO for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1-apple-inspired-visuals-high-quality-wallpaper-and-photography-collections-by-yl-computing/"><u>1. Apple-Inspired Visuals: High-Quality Wallpaper and Photography Collections by YL Computing</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/can-you-fix-or-upgrade-a-damaged-gpu-expert-advice-from-yl-computing/"><u>Can You Fix or Upgrade a Damaged GPU? – Expert Advice From YL Computing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-motorola-g24-power-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Motorola G24 Power</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-gpt-interaction-with-our-chrome-add-on/"><u>Effortless GPT Interaction with Our Chrome Add-On</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/high-quality-mercedes-benz-amg-cls-and-yl/"><u>High-Quality Mercedes Benz AMG CLS 지형 배경화면 및 너비 매김 - 와일드 코메탠 & YL 소프트웨어</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/how-to-perform-data-backup-and-recovery-via-control-panel-tips-by-yl-computing/"><u>How to Perform Data Backup and Recovery via Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/improve-your-printer-resolution-and-clarity-with-tips-from-yl-software-experts/"><u>Improve Your Printer Resolution & Clarity with Tips From YL Software Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-geforce-210-driver-upgrade-for-windows-10/"><u>Latest NVIDIA GeForce 210 Driver Upgrade for Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/lay-down-newspapers-or-a-drop-cloth-to-protect-your-work-area-from-paint-spills/"><u>Lay Down Newspapers or a Drop Cloth to Protect Your Work Area From Paint Spills.</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-should-you-buy-videopad-video-editor-a-honest-review-and-analysis/"><u>New 2024 Approved Should You Buy Videopad Video Editor? A Honest Review and Analysis</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/uncovering-common-reasons-behind-motherboard-breakdowns-expert-analysis-by-yl-computing/"><u>Uncovering Common Reasons Behind Motherboard Breakdowns - Expert Analysis by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/verbesserung-von-frame-interpolation-mit-ki-fliessender-ubergang-und-verbesserter-bildwiederholungsrate/"><u>Verbesserung Von Frame-Interpolation Mit KI: Fließender Übergang Und Verbesserter Bildwiederholungsrate</u></a></li>
 </ul></div>
 

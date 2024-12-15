@@ -1,7 +1,7 @@
 ---
 title: "Mastering Credit Cards in 2009: Insider Secrets & Strategies - Powerful Tools From MassMail"
-date: 2024-12-04T00:56:43.927Z
-updated: 2024-12-09T03:29:45.059Z
+date: 2024-12-11T16:22:23.086Z
+updated: 2024-12-15T16:18:17.392Z
 tags:
   - product
 categories:
@@ -17,10 +17,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
@@ -54,6 +50,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -78,45 +78,45 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,20 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-behind-the-curtain-peek-tracking-insta-post-watchers/"><u>[New] 2024 Approved Behind-the-Curtain Peek Tracking Insta Post Watchers</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/accelerate-your-pcs-performance-effective-strategies-to-delete-superfluous-applications-tips-from-yl-computing/"><u>Accelerate Your PC's Performance: Effective Strategies to Delete Superfluous Applications - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/dynamic-iphone-photography-the-key-to-capturing-motion-blur/"><u>Dynamic iPhone Photography The Key to Capturing Motion Blur</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-transformation-the-ultimate-tutorial-for-converting-webm-to-high-quality-m4a-audio-files/"><u>Effortless Transformation: The Ultimate Tutorial for Converting WebM to High-Quality M4A Audio Files</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/exploring-the-dynamics-of-fb-video-speeds-for-2024/"><u>Exploring the Dynamics of FB Video Speeds for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/exploring-the-locations-of-the-historic-opium-conflicts-a-detailed-guide-by-yl-technology-solutions/"><u>Exploring the Locations of the Historic Opium Conflicts: A Detailed Guide by YL Technology Solutions</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/huaweis-built-in-recorder-screen-capture-for-mate-and-p-series-for-2024/"><u>Huawei's Built-In Recorder Screen Capture for Mate and P Series for 2024</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/identifying-the-reasons-behind-audio-distortion-crackles-and-stutters-expert-insights-from-yl-computing/"><u>Identifying the Reasons Behind Audio Distortion: Crackles & Stutters - Expert Insights From YL Computing</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/personalizing-mouse-configuration-navigating-the-control-panel-with-yl-computings-user-friendly-tips/"><u>Personalizing Mouse Configuration: Navigating the Control Panel with YL Computing's User-Friendly Tips</u></a></li>
-<li><a href="https://win-help.techidaily.com/probleme-de-migration-des-donnees-intels-resolution-impossible/"><u>Probleme De Migration Des Données Intels - Résolution Impossible</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/reactivating-windows-defender-for-optimal-protection-tips-from-yl-computing-expertise/"><u>Reactivating Windows Defender for Optimal Protection: Tips From YL Computing Expertise</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/safeguarding-against-crypto-scams-effective-strategies-by-yl-computing/"><u>Safeguarding Against Crypto-Scams: Effective Strategies by YL Computing</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/step-by-step-guide-resizing-text-in-the-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Resizing Text in the Control Panel – Tips From YL Computing</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/understanding-the-impact-of-digital-threats-on-processor-health-a-guide-by-yl-software-experts/"><u>Understanding the Impact of Digital Threats on Processor Health - A Guide by YL Software Experts</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-best-gopro-accessories-for-beginners/"><u>[New] The Best GoPro Accessories for Beginners</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-filters-for-the-win-maximize-likes-and-comments-effortlessly-for-2024/"><u>[Updated] Instagram Filters for the Win Maximize Likes & Comments Effortlessly for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-precision-trimming-elevating-your-youtube-video-quality/"><u>[Updated] Precision Trimming Elevating Your YouTube Video Quality</u></a></li>
+<li><a href="https://blog-min.techidaily.com/pcand/"><u>「推奨画面録画アプリを活用したPCマニュアル：裏技&手びき」</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-honor-90-gt-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Honor 90 GT Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-reinstating-windows-photo-viewer-on-windows-10-a-twin-strategy/"><u>2024 Approved Reinstating Windows Photo Viewer on Windows 10 A Twin Strategy</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/5-exceptional-pc-emulators-for-playing-ps1-games/"><u>5 Exceptional PC Emulators for Playing PS1 Games</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/clear-up-those-visual-glitches-a-step-by-step-guide-to-troubleshooting-monitors-by-yl-software-professionals/"><u>Clear Up Those Visual Glitches: A Step-by-Step Guide to Troubleshooting Monitors by YL Software Professionals</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/how-to-fix-windows-failing-to-recognize-your-graphics-card-expert-solutions-from-yl-computing/"><u>How to Fix Windows Failing to Recognize Your Graphics Card: Expert Solutions From YL Computing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-depth-analysis-the-powerhouse-in-your-pocket-lightroom/"><u>In-Depth Analysis The Powerhouse in Your Pocket - Lightroom</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ssional-tricks-for-youtube-audio-amplification/"><u>Professional Tricks for YouTube Audio Amplification</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/resolving-driver-software-conflicts-expert-tips-from-yl-computing/"><u>Resolving Driver Software Conflicts - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ely-download-your-youtube-playlist-at-any-time/"><u>Securely Download Your YouTube Playlist at Any Time</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/solving-the-mystery-why-wont-your-computer-mouse-respond-tips-from-yl-computing/"><u>Solving the Mystery: Why Won't Your Computer Mouse Respond? Tips From YL Computing</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/taipei-mayor-jiang-wanan-set-to-participate-in-shanghais-twin-cities-forum-no-expected-meeting-with-taiwan-affairs-office-director-song-tao-taipei-city-gove33/"><u>Taipei Mayor Jiang Wan'an Set to Participate in Shanghai's Twin Cities Forum - No Expected Meeting with Taiwan Affairs Office Director Song Tao, Taipei City Government Spokesperson Confirms</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/ultra-hd-wallpaper-collection-for-bmw-pertinent-to-the-8-series-conv-models-professional-imagery-set-engineered-by-yl-software/"><u>Ultra HD Wallpaper Collection for BMW Pertinent to the 8 Series Conv. Models | Professional Imagery Set – Engineered by YL Software</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/uncover-your-windows-systems-hardware-a-step-by-step-tutorial-from-yl-software-experts/"><u>Uncover Your Windows System's Hardware: A Step-by-Step Tutorial From YL Software Experts</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/unveiling-the-impact-understanding-the-lasting-effects-of-the-opium-conflict-on-chinese-culture-with-yl-software/"><u>Unveiling the Impact: Understanding the Lasting Effects of the Opium Conflict on Chinese Culture with YL Software</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/vibrant-and-expressive-imagery-explore-the-creative-world-of-paula-garces-with-premium-wallpapers-from-yl-software/"><u>Vibrant & Expressive Imagery: Explore the Creative World of Paula Garcés with Premium Wallpapers From YL Software</u></a></li>
 </ul></div>
 

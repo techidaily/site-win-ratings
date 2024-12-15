@@ -1,7 +1,7 @@
 ---
 title: "Latest PCDJ 2.6.5 Update: Now Features Support for Three Hercules DJ Mixers!"
-date: 2024-12-06T03:55:37.355Z
-updated: 2024-12-09T03:24:02.374Z
+date: 2024-12-11T16:17:05.817Z
+updated: 2024-12-15T16:05:45.335Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ You can download a new **free DJ software** demo of PCDJ DEX 2.6.5 here:
 http://www.pcdj.com/dj-software/free-trials/dex-2-free-trial/
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -49,20 +49,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2013/11/1375832\_10151785335977615
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-z2-masterpiece-review-a-smart-tech-journey/"><u>[New] 2024 Approved Z2 Masterpiece Review A Smart Tech Journey</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-overcoming-obscured-views-during-youtube-playback/"><u>[Updated] Overcoming Obscured Views During YouTube Playback</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/connecting-an-external-mic-to-your-pc-a-step-by-step-guide-for-windows-users-yl-software-solutions/"><u>Connecting an External Mic to Your PC: A Step-by-Step Guide for Windows Users - YL Software Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-gpts-potential-for-eq-improvement/"><u>Harnessing GPT's Potential for EQ Improvement</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-90-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Honor 90 support - Turn Off Screen Lock.</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/how-can-malfunctioning-hardware-lead-to-unexpected-shutdowns-understanding-the-basics-with-yl-software-solutions/"><u>How Can Malfunctioning Hardware Lead to Unexpected Shutdowns? Understanding the Basics with YL Software Solutions</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-max-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro Max to the Previous iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) Passcode without Computer?</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/master-your-pc-settings-with-yl-computing-adjust-system-privileges-via-the-windows-control-panel/"><u>Master Your PC Settings with YL Computing: Adjust System Privileges via the Windows Control Panel</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/resolving-memory-unable-to-store-data-issues-with-guidance-from-yl-software-experts/"><u>Resolving 'Memory Unable to Store Data' Issues with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/step-by-step-guide-to-detect-and-repair-computer-component-failures-expert-advice-from-digitalfixers/"><u>Step-by-Step Guide to Detect and Repair Computer Component Failures – Expert Advice From DigitalFixers</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-error-0x800f020b-successful-updates-for-your-xerox-printer-on-windows/"><u>Troubleshooting Error 0X800F020B: Successful Updates for Your Xerox Printer on Windows</u></a></li>
-<li><a href="https://fox-access.techidaily.com/ultimate-choices-top-laptops-pro-video-editing-in-4k/"><u>Ultimate Choices Top Laptops Pro Video Editing in 4K</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/unlocking-compressed-data-a-guide-to-opening-zip-files-tech-solutions-with-yl-computing/"><u>Unlocking Compressed Data: A Guide to Opening Zip Files - Tech Solutions with YL Computing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/zdnets-head-to-head-battle-how-lg-gram-pro-outperforms-the-macbook-air-in-key-areas-of-usage/"><u>ZDNet's Head-to-Head Battle: How LG Gram Pro Outperforms the MacBook Air in Key Areas of Usage</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-elevate-engagement-top-hashtags-for-gameplay-vids/"><u>[New] 2024 Approved Elevate Engagement Top Hashtags for Gameplay Vids</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/etting-started-on-youtube-setting-up-and-generating-income/"><u>[New] Getting Started on YouTube Setting Up & Generating Income</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-become-an-nft-expert-with-these-top-7-creative-tools/"><u>2024 Approved Become an NFT Expert with These Top 7 Creative Tools</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/acceptance-of-use-policy-for-digital-asset-ledger-review-tool-developed-by-yl-software/"><u>Acceptance of Use Policy for Digital Asset Ledger Review Tool - Developed by YL Software</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/boost-your-pcs-performance-expert-tips-on-speeding-up-and-optimizing-your-system-yl-tech-solutions/"><u>Boost Your PC's Performance: Expert Tips on Speeding Up & Optimizing Your System - YL Tech Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-windows-access-denial-mysteries/"><u>Deciphering Windows Access Denial Mysteries</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/ensuring-optimal-function-of-your-laptop-fan-a-guide-by-yl-software-professionals/"><u>Ensuring Optimal Function of Your Laptop Fan - A Guide by YL Software Professionals</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/geen-belangstelling-voor-platen-gebeurtenissen-omzetten-en-lezen-van-jpeg-file-formats-graag-niet-inkoopt/"><u>Geen Belangstelling Voor Platen Gebeurtenissen: Omzetten En Lezen Van JPEG File-Formats Graag Niet Inkoopt</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-chromium-device-live-screen-recorder/"><u>In 2024, Chromium Device Live Screen Recorder</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/karaoke-player-and-free-music-library/"><u>Karaoke Player and Free Music Library.</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/section-4c-qanda-with-solutions/"><u>Section 4C: Q&A with Solutions</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/solutions-for-boot-issues-what-to-try-when-your-pc-fails-to-start-expert-advice-from-yl-computing/"><u>Solutions for Boot Issues: What to Try When Your PC Fails to Start - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/step-by-step-guide-activating-your-pcs-built-in-security-with-windows-defender-tips-from-yl-computing/"><u>Step-by-Step Guide: Activating Your PC's Built-In Security with Windows Defender - Tips From YL Computing</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/streamlined-method-assembling-tracks-from-past-sets-in-digital-dj-systems-pioneer/"><u>Streamlined Method: Assembling Tracks From Past Sets in Digital DJ Systems (Pioneer)</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/top-charting-music-videos-uncovered-discover-todays-sensations-on-video-pool/"><u>Top Charting Music Videos Uncovered - Discover Today's Sensations on Video Pool</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-repair-a-non-functioning-microphone-in-your-airpods-when-using-windows-10/"><u>Troubleshooting Guide: How to Repair a Non-Functioning Microphone in Your AirPods When Using Windows 10</u></a></li>
 </ul></div>
 

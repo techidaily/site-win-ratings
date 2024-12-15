@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's Top Hits of 2020: A Yearly Retrospective"
-date: 2024-12-04T07:27:16.295Z
-updated: 2024-12-09T07:31:57.349Z
+date: 2024-12-09T16:20:52.377Z
+updated: 2024-12-15T16:12:25.819Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ Our development teams also stayed busy in 2020 with progress made across our ent
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2020 PCDJ Milestones
@@ -49,7 +49,7 @@ With 2020 in the books we’re anxiously looking forward to building on our mome
 _**Happy New Year — and here’s to a healthy and prosperous 2021!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,20 +71,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/12/year-in-review.jpg?fit=164
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exploring-the-dynamics-of-profit-distribution-in-video-shorts/"><u>[New] In 2024, Exploring the Dynamics of Profit Distribution in Video Shorts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-get-people-to-subscribe-by-asking-the-right-way-for-2024/"><u>[Updated] How to Get People to Subscribe by Asking the Right Way for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-prime-mp3-converters-the-ultimate-list-from-youtube/"><u>2024 Approved Prime MP3 Converters The Ultimate List From YouTube</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/accelerating-your-computer-effective-strategies-from-yl-computing/"><u>Accelerating Your Computer: Effective Strategies From YL Computing</u></a></li>
-<li><a href="https://driver-download.techidaily.com/asus-users-guide-secure-download-of-mouse-pad-software-for-windows-operating-system/"><u>ASUS Users Guide: Secure Download of Mouse Pad Software for Windows Operating System</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/compressing-files-made-simple-using-windows-expert-tips-by-yl-software-solutions/"><u>Compressing Files Made Simple Using Windows - Expert Tips by YL Software Solutions</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/evolution-of-international-diplomacy-in-the-qing-era-insights-and-analysis/"><u>Evolution of International Diplomacy in the Qing Era: Insights and Analysis</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/how-to-personalize-windows-control-panel-for-enhanced-user-experience-with-yl-software-solutions/"><u>How to Personalize Windows Control Panel for Enhanced User Experience with YL Software Solutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-boost-engagement-changing-numbers-effectively-on-tiktok/"><u>In 2024, Boost Engagement Changing Numbers Effectively on TikTok</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/need-expert-repairs-for-your-troublesome-computer-trust-in-yl-computings-software-and-technical-support/"><u>Need Expert Repairs for Your Troublesome Computer? Trust in YL Computing's Software and Technical Support</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/resolved-fixing-the-issue-of-not-being-able-to-back-up-your-iphone-on-itunesicloud/"><u>Resolved: Fixing the Issue of Not Being Able to Back Up Your iPhone on iTunes/iCloud</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/resolving-corrupt-windows-system-files-a-step-by-step-guide-by-yl-software/"><u>Resolving Corrupt Windows System Files: A Step-by-Step Guide by YL Software</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/itute-film-gems-for-fans-top-7-lists-for-2024/"><u>Substitute Film Gems for Fans - Top 7 Lists for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/unlock-instant-video-streams-from-verystream-at-no-charge-quick-reliable-and-cost-free-download-tool/"><u>Unlock Instant Video Streams From Verystream at No Charge – Quick, Reliable and Cost-Free Download Tool</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/unveiling-the-authorship-mystery-who-penned-dream-of-the-red-chamber-insights-from-yl-tech-expertise/"><u>Unveiling the Authorship Mystery: Who Penned 'Dream of the Red Chamber' - Insights From YL Tech Expertise</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-guide-to-saving-real-time-screen-chats/"><u>[Updated] In 2024, Guide to Saving Real-Time Screen Chats</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/comparative-analysis-of-hdds-and-ssds-insights-from-experts-at-yl-software-yl-computing/"><u>Comparative Analysis of HDDs and SSDs: Insights From Experts at YL Software | YL Computing</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/connecting-an-external-mic-to-your-pc-a-step-by-step-guide-for-windows-users-yl-software-solutions/"><u>Connecting an External Mic to Your PC: A Step-by-Step Guide for Windows Users - YL Software Solutions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effective-strategies-for-dealing-with-the-netwtw10sys-induced-bluescreen-in-windows-operating-system/"><u>Effective Strategies for Dealing with the Netwtw10.sys-Induced Bluescreen in Windows Operating System</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/how-can-malfunctioning-hardware-lead-to-unexpected-shutdowns-understanding-the-basics-with-yl-software-solutions/"><u>How Can Malfunctioning Hardware Lead to Unexpected Shutdowns? Understanding the Basics with YL Software Solutions</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-to-customize-windows-defender-options-a-guide-by-yl-computing-optimizing-your-antivirus-experience/"><u>How to Customize Windows Defender Options: A Guide by YL Computing - Optimizing Your Antivirus Experience</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/improving-listening-experience-with-easy-tweaks-to-your-pcs-sound-card-settings/"><u>Improving Listening Experience with Easy Tweaks to Your PC's Sound Card Settings</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-advanced-techniques-for-lut-use-in-premiere-pro/"><u>In 2024, Advanced Techniques for LUT Use in Premiere Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/master-video-format-transformation-resize-your-footage-to-popular-aspects-like-53-or-32-with-simple-techniques/"><u>Master Video Format Transformation: Resize Your Footage to Popular Aspects Like 5:3 or 3:2 with Simple Techniques</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/master-your-pc-settings-with-yl-computing-adjust-system-privileges-via-the-windows-control-panel/"><u>Master Your PC Settings with YL Computing: Adjust System Privileges via the Windows Control Panel</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/resolving-memory-unable-to-store-data-issues-with-guidance-from-yl-software-experts/"><u>Resolving 'Memory Unable to Store Data' Issues with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/revolutionize-your-edits-10-best-fcpx-plugins-for-2024/"><u>Revolutionize Your Edits 10 Best FCPX Plugins for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/step-by-step-guide-to-detect-and-repair-computer-component-failures-expert-advice-from-digitalfixers/"><u>Step-by-Step Guide to Detect and Repair Computer Component Failures – Expert Advice From DigitalFixers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-flip-side-to-visual-storytelling-how-to-rotate-your-images-on-instagram/"><u>The Flip-Side to Visual Storytelling How to Rotate Your Images on Instagram</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/troubleshooting-graphics-problems-understanding-why-games-fail-to-load-on-certain-systems-expertise-by-yl-software/"><u>Troubleshooting Graphics Problems: Understanding Why Games Fail to Load on Certain Systems - Expertise by YL Software</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/unlocking-compressed-data-a-guide-to-opening-zip-files-tech-solutions-with-yl-computing/"><u>Unlocking Compressed Data: A Guide to Opening Zip Files - Tech Solutions with YL Computing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/video-aspect-ratio-a-step-by-step-guide-to-resizing/"><u>Video Aspect Ratio A Step-by-Step Guide to Resizing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-ipados-18-unveiled-at-apples-wwdc-202n-the-must-have-functionality-prompting-an-immediate-switch-to-the-iconic-tablet-analysis/"><u>Why iPadOS 18 Unveiled at Apple's WWDC 202N: The Must-Have Functionality Prompting an Immediate Switch to the Iconic Tablet | Analysis</u></a></li>
 </ul></div>
 

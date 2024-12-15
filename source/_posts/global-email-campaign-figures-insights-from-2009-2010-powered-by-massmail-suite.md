@@ -1,7 +1,7 @@
 ---
 title: "Global Email Campaign Figures: Insights From 2009-2010 Powered by MassMail Suite"
-date: 2024-12-08T02:40:54.645Z
-updated: 2024-12-08T21:19:10.554Z
+date: 2024-12-14T16:19:51.325Z
+updated: 2024-12-15T16:16:32.581Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -39,6 +35,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -66,37 +66,37 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -106,21 +106,17 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,18 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-seamless-transition-for-extracting-facebooks-graphic-gems-anywhere/"><u>2024 Approved Seamless Transition for Extracting Facebook's Graphic Gems Anywhere</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/diagnosing-and-fixing-problematic-gpus-under-windows-with-yl-software-tips/"><u>Diagnosing and Fixing Problematic GPUs Under Windows with YL Software Tips</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/download-dex-3205-enhanced-beat-matching-and-improved-sync-capabilities-now-available/"><u>Download DEX 3.20.5: Enhanced Beat Matching & Improved Sync Capabilities Now Available!</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/enhance-computer-efficiency-with-proven-strategies-by-yl-computing-and-yl-software/"><u>Enhance Computer Efficiency with Proven Strategies by YL Computing & YL Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-does-imovie-set-dimensions/"><u>In 2024, How Does iMovie Set Dimensions?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-vivo-s17-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Vivo S17? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/master-your-file-explorer-ultimate-folder-configuration-tutorial-from-yl-software-experts/"><u>Master Your File Explorer: Ultimate Folder Configuration Tutorial From YL Software Experts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/optimizing-skype-call-audio-environment-for-2024/"><u>Optimizing Skype Call Audio Environment for 2024</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/premium-harley-davidson-background-graphics-full-resolution-imagery-and-wallpapers-by-yl-software-solutions/"><u>Premium Harley Davidson Background Graphics: Full-Resolution Imagery & Wallpapers by YL Software Solutions</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/resolving-gpu-related-bsod-issues-expert-guide-techtips-by-yl/"><u>Resolving GPU-Related BSOD Issues: Expert Guide - TechTips by YL</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211423545-9783964462909-tanulj-meg-imadkozni/"><u>Tanulj meg imádkozni | Free Book</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-5-video-komprimierungsprogramme-zum-effizienten-grossenreduzieren-von-mediendateien/"><u>Top 5 Video-Komprimierungsprogramme Zum Effizienten Größenreduzieren Von Mediendateien</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-audience-allure-identifying-the-top-6-video-types/"><u>[New] 2024 Approved Audience Allure Identifying the Top 6 Video Types</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1-enhancing-pc-performance-can-system-updates-boost-speed-yl-tech-insights/"><u>1. Enhancing PC Performance: Can System Updates Boost Speed - YL Tech Insights</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/5-effective-techniques-to-clear-up-ram-and-boost-your-pcs-speed-tips-by-yl-computing/"><u>5 Effective Techniques to Clear Up RAM and Boost Your PC's Speed - Tips by YL Computing</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/a-step-by-step-guide-to-identifying-graphics-card-errors-by-yl-software-experts/"><u>A Step-by-Step Guide to Identifying Graphics Card Errors by YL Software Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advanced-note-taking-mastery-explore-the-best-ai-apps-to-revolutionize-your-notetaking/"><u>Advanced Note-Taking Mastery: Explore the Best AI Apps to Revolutionize Your Notetaking</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/how-does-insufficient-memory-cause-your-pcs-sluggish-performance-solutions-by-yl-computing/"><u>How Does Insufficient Memory Cause Your PC's Sluggish Performance - Solutions by YL Computing</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/hunt-for-savings-the-most-valuable-acer-deals-dominating-prime-day-2024/"><u>Hunt for Savings! The Most Valuable Acer Deals Dominating Prime Day 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/identifying-the-root-cause-of-your-computers-regular-crashes-expert-tips-from-yl-computing/"><u>Identifying the Root Cause of Your Computer's Regular Crashes - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://solve-help.techidaily.com/improving-sound-clarity-a-users-manual-on-modifying-wav-bitrates-for-superior-audio-files/"><u>Improving Sound Clarity: A User's Manual on Modifying WAV Bitrates for Superior Audio Files</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reverse-aspect-ratio-normalize-screen/"><u>Reverse Aspect Ratio: Normalize Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranking-gaming-audio-equipment-comprehensive-test-results-by-experts-on-zdnet/"><u>Top-Ranking Gaming Audio Equipment - Comprehensive Test Results by Experts on ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On OnePlus Open? | Dr.fone</u></a></li>
 </ul></div>
 

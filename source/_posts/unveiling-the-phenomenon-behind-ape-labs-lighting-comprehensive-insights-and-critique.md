@@ -1,7 +1,7 @@
 ---
 title: "Unveiling The Phenomenon Behind Ape Labs Lighting: Comprehensive Insights & Critique"
-date: 2024-12-13T16:05:56.291Z
-updated: 2024-12-15T16:05:21.976Z
+date: 2024-12-22T07:59:56.401Z
+updated: 2024-12-23T19:29:39.999Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ This small company is disrupting the professional lighting industry in six major
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## #1 – They are made in Germany, not China.
@@ -58,10 +58,6 @@ Ape Labs fixtures all use the same softare and comminute with eachother. This me
 
 **And this battery life test:**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## #4 – Eveything is Simple & Easy.
 
 The [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) tag line is “Keep it Simple”, and that’s exactly what they do. Their ligthing fixtures don’t even have control buttons on them. Each unit just has a single power button. All controlling and programming is done wirelessly.
@@ -77,7 +73,11 @@ EXPAND IMAGE
 ![APE LABS Remote Graphic](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/02/APE-LABS-Remote-Graphic.png?fit=1030%2C796&ssl=1 "APE LABS Remote Graphic")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## #5 – Size & Weight.
@@ -85,10 +85,6 @@ EXPAND IMAGE
 All [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) products are extremely small and light-weight. The most popular Ape Labs product in the world is the LightCan, which is exactly the size of a RedBull can.
 
 The most popular Ape Labs product in the USA is their traditional uplight called the ApeLight Maxi. This unit is 3.3lbs. A case of six is only 34lbs, including the weight of the charging case. **To put that into perspective, check out this video:**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## #6 – 3-Year Warranty, European Build Quality, but Same Pricing.
 
@@ -98,11 +94,11 @@ Fortunately, [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) prod
 
 [EXPAND IMAGE ![Ape Labs Comparison Chart](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/02/Ape-Labs-Comparison-Chart-9x12-new.png?fit=773%2C1030&ssl=1 "Ape Labs Comparison Chart")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/02/Ape-Labs-Comparison-Chart-9x12-new.png?fit=773%2C1030&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You may have noticed that the ApeLight Maxi is listed as “water resistant” but doesn’t actually give an official IP rating in the specs. **To help you understand what they mean by “water resistant”, check out:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More questions? Check out these reviews:
 
@@ -115,6 +111,10 @@ You may have noticed that the ApeLight Maxi is listed as “water resistant” b
 We hope you enjoyed the review and run down on Ape Labs lighting. For more information and to review all Ape Labs products please visit KPODJ by clicking the button below.
 
 [VIEW APE LABS LIGHTING PRODUCTS](https://www.apelabsusa.com/product/maxi#9fb11cfd80)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -135,20 +135,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/02/apelabs-review-cover.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-hooked-easy-ways-to-loop-any-youtube-video/"><u>[New] 2024 Approved Get Hooked Easy Ways to Loop Any YouTube Video</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-top-10-gimbals-enhancing-dsrl-quality/"><u>[New] 2024 Approved Top 10 Gimbals Enhancing DSRL Quality</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-splitscreen-study/"><u>[New] SplitScreen Study</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlock-the-full-potential-of-your-gopro-4k-recordings/"><u>[New] Unlock the Full Potential of Your GoPro 4K Recordings</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-camera-quest-gopro-hero5-b-vs-session-edition/"><u>[Updated] 2024 Approved Camera Quest – GoPro Hero5 B vs Session Edition</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-9-superb-spots-to-engage-in-free-early-childhood-educational-activities/"><u>Discover 9 Superb Spots to Engage in Free Early Childhood Educational Activities</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/dj-software-sync-a-divisive-tool-in-beatmatching-pcdj-edition/"><u>DJ Software Sync: A Divisive Tool in Beatmatching - PCDJ Edition</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/easily-personalize-desktop-themes-using-windows-control-panel-expert-advice-from-yl-software/"><u>Easily Personalize Desktop Themes Using Windows Control Panel – Expert Advice From YL Software</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/how-does-utilizing-bitcoin-change-your-shopping-experience-discover-with-yl-softwares-analysis/"><u>How Does Utilizing Bitcoin Change Your Shopping Experience? Discover with YL Software’s Analysis</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-se-2020-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone SE (2020) Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-classroom-vids-essential-editing-strategies/"><u>In 2024, Classroom Vids Essential Editing Strategies</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/stunning-orion-nebula-desktop-backgrounds-and-space-artwork-yl-computing/"><u>Stunning Orion Nebula Desktop Backgrounds & Space Artwork - YL Computing</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/troubleshooting-scanner-resolution-problems-expert-advice-and-fixes-by-yl-software/"><u>Troubleshooting Scanner Resolution Problems: Expert Advice and Fixes by YL Software</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/understanding-windows-defender-essential-security-insights-from-yl-computing/"><u>Understanding Windows Defender - Essential Security Insights From YL Computing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-how-to-make-a-gif-meme/"><u>[Updated] In 2024, How to Make A GIF Meme</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-stunning-hdr-scenes-with-photoshop-mastery-for-2024/"><u>Capturing Stunning HDR Scenes with PhotoShop Mastery for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/effective-strategies-to-shield-your-system-from-malware-infections-insights-by-yl-computing/"><u>Effective Strategies to Shield Your System From Malware Infections - Insights by YL Computing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-why-valheim-failed-to-load/"><u>Fixing the Issue: Why Valheim Failed to Load</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/improving-listening-experience-with-easy-tweaks-to-your-pcs-sound-card-settings/"><u>Improving Listening Experience with Easy Tweaks to Your PC's Sound Card Settings</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-xiaomi-civi-3-disney-100th-anniversary-edition-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Xiaomi Civi 3 Disney 100th Anniversary Edition Phone? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-mastering-the-art-of-sync-free-obs-streaming/"><u>In 2024, Mastering the Art of Sync-Free OBS Streaming</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/power-supply-woes-find-out-if-its-time-to-replace-with-yl-software-insights/"><u>Power Supply Woes? Find Out If It's Time to Replace with YL Software Insights</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/sharing-files-and-printers-on-windows-11-a-complete-guide-with-step-by-step-instructions-yl-solutions/"><u>Sharing Files & Printers on Windows 11: A Complete Guide with Step-by-Step Instructions - YL Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-lava-yuva-3-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Lava Yuva 3? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/yl-software-solutions-how-to-extract-audio-from-video-files-easily/"><u>YL Software Solutions: How to Extract Audio From Video Files Easily</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Essential Errors Businesses Must Escape on Social Platforms - A Retrospective Guide for 2010 Using Massmail Tools (Part I)
-date: 2024-12-09T16:16:52.454Z
-updated: 2024-12-15T16:01:59.205Z
+date: 2024-12-29T03:36:41.542Z
+updated: 2024-12-29T17:41:15.642Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -63,7 +71,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -71,7 +79,7 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -82,17 +90,9 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -106,20 +106,20 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -149,24 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-virtual-horizons-unveiled-critics-top-oculus-headsets/"><u>[New] 2024 Approved Virtual Horizons Unveiled Critics' Top Oculus Headsets</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-tips-record-powerpoint-live-with-webcam/"><u>[Updated] Essential Tips Record PowerPoint Live with Webcam</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premier-gadgets-in-auto-traffic-camera-tech/"><u>[Updated] Premier Gadgets in Auto Traffic Camera Tech</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-speed-up-your-photo-journey-creating-rapid-google-collages/"><u>[Updated] Speed Up Your Photo Journey Creating Rapid Google Collages</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/1-unveiling-control-panel-the-ins-and-outs-of-default-user-account-settings-expert-guide-by-yl-computing/"><u>1. Unveiling Control Panel: The Ins and Outs of Default User Account Settings - Expert Guide by YL Computing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-codec-battlegrounds-assessing-the-advantages-of-av1-and-vp9/"><u>2024 Approved Codec Battlegrounds Assessing the Advantages of Av1 and VP9</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/complete-guide-step-by-step-file-backup-on-windows-11-tips-from-yl-computing/"><u>Complete Guide: Step-by-Step File Backup on Windows 11 - Tips From YL Computing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-the-hp-officejet-pro-6970-printer-drivers-for-windows/"><u>Download and Update the HP Officejet Pro 6970 Printer Drivers for Windows</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/efficiently-managing-system-memory-expert-tips-for-enhancing-ram-performance-by-yl-software-experts/"><u>Efficiently Managing System Memory: Expert Tips for Enhancing RAM Performance by YL Software Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-the-upgraded-evolution-of-apples-airpod-lineup-the-4-most-notable-features-revealed-zdnet/"><u>Explore the Upgraded Evolution of Apple's AirPod Lineup - The 4 Most Notable Features Revealed | ZDNet</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/exploring-the-influence-of-confucian-philosophy-on-traditional-chinese-societal-norms-analysis-by-yl-computing/"><u>Exploring the Influence of Confucian Philosophy on Traditional Chinese Societal Norms - Analysis by YL Computing</u></a></li>
-<li><a href="https://win-premium.techidaily.com/guia-completa-como-crear-una-unidad-de-rescate-para-restaurar-tu-pc-bloqueada/"><u>Guía Completa: Cómo Crear Una Unidad De Rescate Para Restaurar Tu PC Bloqueada</u></a></li>
-<li><a href="https://win-help.techidaily.com/how-to-save-and-download-linkedin-tutorials-as-popular-video-formats-for-pc-and-mac-enthusiasts/"><u>How to Save and Download LinkedIn Tutorials as Popular Video Formats for PC and MAC Enthusiasts</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/mastering-localization-how-to-modify-display-settings-and-use-different-languages-in-the-control-panel-windows-yl-software/"><u>Mastering Localization: How to Modify Display Settings and Use Different Languages in the Control Panel (Windows) - YL Software</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/no-8-virtual-pixel-mashup-software-for-2024/"><u>No. 8 Virtual Pixel Mashup Software for 2024</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/optimal-timing-when-is-it-necessary-to-reapply-thermal-paste-to-your-cpu/"><u>Optimal Timing: When Is It Necessary to Reapply Thermal Paste to Your CPU?</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/quick-guide-setting-up-keyboard-shortcuts-for-files-and-folders-on-your-windows-pc-expert-tips-from-yl-computing/"><u>Quick Guide: Setting Up Keyboard Shortcuts for Files and Folders on Your Windows PC - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/sing-solo-or-duet-anytime-discover-your-inner-star-with-karaokecloud-pros-exclusive-membership/"><u>Sing Solo or Duet Anytime: Discover Your Inner Star with KaraokeCloud Pro's Exclusive Membership!</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/unveiling-the-reasons-behind-screen-video-artifacts-insights-from-yl-computing/"><u>Unveiling the Reasons Behind Screen Video Artifacts: Insights From YL Computing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-pinnacle-tools-for-audio-infused-photography-for-2024/"><u>[New] Pinnacle Tools for Audio Infused Photography for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-dissecting-vidmas-screen-recorder-performance/"><u>[Updated] 2024 Approved Dissecting Vidma’s Screen Recorder Performance</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-avoiding-obscured-games-fixes-for-obs-black-screen-issues/"><u>[Updated] Avoiding Obscured Games Fixes for OBS Black Screen Issues</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/6l275p2plus5bcg5pon5l2c57o757uf6lplusb56e76iez5paw56gs5lu2ic3kuidmraxkuidmraxmjifljzc/"><u>轻松将操作系统迁移至新硬件 -一步一步指南</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/configuracion-de-copia-de-seguridad-automatica-al-apagado-en-sistema-operativo-windows-7-explicada/"><u>Configuración De Copia De Seguridad Automática Al Apagado en Sistema Operativo Windows 7 Explicada</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/effective-strategies-transferring-outlook-pst-files-securely-into-onedrive-storage/"><u>Effective Strategies: Transferring Outlook PST Files Securely Into OneDrive Storage</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/effective-techniques-for-cloning-vms-in-vmware-esxi-with-or-without-vcenter/"><u>Effective Techniques for Cloning VMs in VMware ESXi with or without vCenter</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/guia-paso-a-paso-para-usar-la-herramienta-de-inicio-aomei-pxe-con-facilidad/"><u>Guía Paso a Paso Para Usar La Herramienta De Inicio AOMEI PXE Con Facilidad</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/hervorming-van-productendestijlen-beschermen-tegen-ongeleukte-bestandonderlingen-in-verkennerbeheersing/"><u>Hervorming Van Productendestijlen: Beschermen Tegen Ongeleukte Bestandonderlingen in Verkennerbeheersing</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-secure-your-fb-story-views-with-these-5-techniques/"><u>In 2024, Secure Your FB Story Views with These 5 Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/professionals-pick-top-extended-mouse-pad-innovations-for-superior-gaming-and-office-use/"><u>Professional's Pick: Top Extended Mouse Pad Innovations for Superior Gaming and Office Use</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/take-your-mobile-videos-to-the-next-level-top-vertical-editors/"><u>Take Your Mobile Videos to the Next Level Top Vertical Editors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-battle-of-bot-eloquence-snapchat-triumphs/"><u>The Battle of Bot Eloquence: Snapchat Triumphs?</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/understanding-the-differences-high-availability-fault-tolerance-and-system-redundancy/"><u>Understanding the Differences: High Availability, Fault Tolerance & System Redundancy.</u></a></li>
 </ul></div>
 

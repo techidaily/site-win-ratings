@@ -1,7 +1,7 @@
 ---
 title: "Unveiling The Phenomenon Behind Ape Labs Lighting: Comprehensive Insights & Critique"
-date: 2024-12-22T07:59:56.401Z
-updated: 2024-12-23T19:29:39.999Z
+date: 2024-12-24T17:18:26.999Z
+updated: 2024-12-29T17:53:39.102Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ This small company is disrupting the professional lighting industry in six major
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## #1 – They are made in Germany, not China.
@@ -48,6 +48,10 @@ Also, the sound active feature can be set so all Ape Labs products are triggered
 
 **Check out this clip which is displaying (10) ApeStick 4’s and (4) LightCan’s:**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## #3 – They Take Wireless Control & Battery Power to the Next Level.
 
 The DMX wireless range on [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) products is rated at over 3,000 ft. The RF remote control range is rated at over 200 ft. And the battery life of their most popular uplight has been tested to run nearly 15 hours at full power. But that’s not all.
@@ -57,6 +61,10 @@ Ape Labs fixtures all use the same softare and comminute with eachother. This me
 **Check out this remote distance test:**
 
 **And this battery life test:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## #4 – Eveything is Simple & Easy.
 
@@ -73,11 +81,11 @@ EXPAND IMAGE
 ![APE LABS Remote Graphic](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/02/APE-LABS-Remote-Graphic.png?fit=1030%2C796&ssl=1 "APE LABS Remote Graphic")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## #5 – Size & Weight.
@@ -96,10 +104,6 @@ Fortunately, [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) prod
 
 You may have noticed that the ApeLight Maxi is listed as “water resistant” but doesn’t actually give an official IP rating in the specs. **To help you understand what they mean by “water resistant”, check out:**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More questions? Check out these reviews:
 
 **DJ City with Mojaxx**
@@ -111,10 +115,6 @@ You may have noticed that the ApeLight Maxi is listed as “water resistant” b
 We hope you enjoyed the review and run down on Ape Labs lighting. For more information and to review all Ape Labs products please visit KPODJ by clicking the button below.
 
 [VIEW APE LABS LIGHTING PRODUCTS](https://www.apelabsusa.com/product/maxi#9fb11cfd80)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -135,16 +135,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/02/apelabs-review-cover.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-how-to-make-a-gif-meme/"><u>[Updated] In 2024, How to Make A GIF Meme</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/capturing-stunning-hdr-scenes-with-photoshop-mastery-for-2024/"><u>Capturing Stunning HDR Scenes with PhotoShop Mastery for 2024</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/effective-strategies-to-shield-your-system-from-malware-infections-insights-by-yl-computing/"><u>Effective Strategies to Shield Your System From Malware Infections - Insights by YL Computing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-the-issue-why-valheim-failed-to-load/"><u>Fixing the Issue: Why Valheim Failed to Load</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/improving-listening-experience-with-easy-tweaks-to-your-pcs-sound-card-settings/"><u>Improving Listening Experience with Easy Tweaks to Your PC's Sound Card Settings</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-xiaomi-civi-3-disney-100th-anniversary-edition-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Xiaomi Civi 3 Disney 100th Anniversary Edition Phone? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-mastering-the-art-of-sync-free-obs-streaming/"><u>In 2024, Mastering the Art of Sync-Free OBS Streaming</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/power-supply-woes-find-out-if-its-time-to-replace-with-yl-software-insights/"><u>Power Supply Woes? Find Out If It's Time to Replace with YL Software Insights</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/sharing-files-and-printers-on-windows-11-a-complete-guide-with-step-by-step-instructions-yl-solutions/"><u>Sharing Files & Printers on Windows 11: A Complete Guide with Step-by-Step Instructions - YL Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-lava-yuva-3-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Lava Yuva 3? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/yl-software-solutions-how-to-extract-audio-from-video-files-easily/"><u>YL Software Solutions: How to Extract Audio From Video Files Easily</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-excursion-videography-tools-compilation/"><u>[New] Excursion Videography Tools Compilation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guffaws-in-grooves-parody-playlist-for-2024/"><u>[New] Guffaws in Grooves Parody Playlist for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-7-comedy-youtube-video-ideas-that-funny-people-can-try/"><u>[New] In 2024, 7 Comedy YouTube Video Ideas That Funny People Can Try</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-filmoras-blueprint-for-stellar-youtube-trailers/"><u>[Updated] In 2024, Filmora's Blueprint for Stellar YouTube Trailers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-steady-shot-enhancer-for-traveling-filmmakers/"><u>[Updated] Steady Shot Enhancer for Traveling Filmmakers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-collaborates-with-openai-to-integrate-chatgpt-on-ios-ipados-and-macos-devices-insights/"><u>Apple Collaborates with OpenAI to Integrate ChatGPT on iOS, iPadOS & macOS Devices - Insights</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/can-you-profit-from-crypto-trading-expert-insights-by-yl-computing/"><u>Can You Profit From Crypto Trading? Expert Insights by YL Computing</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/can-you-use-windows-defender-antivirus-on-a-mac-a-comprehensive-guide-by-yl-computing/"><u>Can You Use Windows Defender Antivirus on a Mac - A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/chronology-of-events-resulting-in-the-birth-of-the-republic-of-china-an-analysis-from-yl-innovations/"><u>Chronology of Events Resulting in the Birth of the Republic of China: An Analysis From YL Innovations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/expert-guide-fixing-and-optimizing-your-shadowplay-video-recordings-on-windows-platforms/"><u>Expert Guide: Fixing and Optimizing Your ShadowPlay Video Recordings on Windows Platforms</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/how-to-fix-a-sluggish-pc-post-windows-11-update-expert-tips-yl-computing/"><u>How to Fix a Sluggish PC Post-Windows 11 Update: Expert Tips - YL Computing</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/how-to-quickly-boost-your-pcs-speed-with-effective-system-cleanup-and-optimization-tips-from-yl-software/"><u>How to Quickly Boost Your PC’s Speed with Effective System Cleanup and Optimization – Tips From YL Software</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/installuninstall-software-effortlessly-on-your-pc-using-the-control-panel-expert-advice-by-yl-software/"><u>Install/Uninstall Software Effortlessly on Your PC Using the Control Panel – Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/is-your-sluggish-system-due-to-hardware-failures-uncover-the-truth-with-insights-from-yl-software/"><u>Is Your Sluggish System Due to Hardware Failures? Uncover the Truth with Insights From YL Software</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/mastering-cryptocurrency-markets-strategies-from-yl-software-experts/"><u>Mastering Cryptocurrency Markets: Strategies From YL Software Experts</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/the-ultimate-technique-for-graphics-card-driver-installation-in-windows-according-to-yl-software-experts/"><u>The Ultimate Technique for Graphics Card Driver Installation in Windows, According to YL Software Experts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-pc-speeds-choosing-the-right-extension-software/"><u>Top PC Speeds Choosing the Right Extension Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-new-era-of-ultrabooks-with-our-comprehensive-razer-blade-stealth-nv-review/"><u>Unveiling the New Era of Ultrabooks with Our Comprehensive Razer Blade Stealth Nv Review</u></a></li>
 </ul></div>
 

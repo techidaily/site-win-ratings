@@ -1,7 +1,7 @@
 ---
 title: "Global Email Campaign Figures: Insights From 2009-2010 Powered by MassMail Suite"
-date: 2025-01-11T04:35:21.814Z
-updated: 2025-01-14T22:20:28.362Z
+date: 2025-01-20T05:54:42.251Z
+updated: 2025-01-21T08:26:32.044Z
 tags:
   - product
 categories:
@@ -19,12 +19,16 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -36,17 +40,9 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -61,10 +57,6 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -86,6 +78,10 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -93,6 +89,10 @@ If you use several types of media to promote your campaign, use a different keyw
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -102,10 +102,6 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
@@ -113,6 +109,10 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,22 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-capturing-playthroughs-on-windows-10-easy-way-for-2024/"><u>[New] Capturing Playthroughs on Windows 10 Easy Way for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-vlc-options-and-rivals/"><u>[New] Exploring VLC Options and Rivals</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-from-novice-to-experienced-6-strategies-for-quick-verification-on-instagram/"><u>[New] From Novice to Experienced 6 Strategies for Quick Verification on Instagram</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-footage-to-polished-content-youtube-studio-edition-for-2024/"><u>[New] From Raw Footage to Polished Content YouTube Studio Edition for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-professional-tips-to-perfect-igtv-thumbnails/"><u>[New] Professional Tips to Perfect IGTV Thumbnails</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-global-exploration-by-channel-for-2024/"><u>[Updated] The Ultimate Guide to Global Exploration, By Channel for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-top-10-best-free-mmorpg-games-you-can-find/"><u>[Updated] Top 10 Best Free MMORPG Games You Can Find</u></a></li>
-<li><a href="https://some-tips.techidaily.com/a-positive-outlook-the-smooth-process-of-pre-ordering-the-new-apple-vision-pro-reflects-exciting-future-prospects-gadgetguru/"><u>A Positive Outlook: The Smooth Process of Pre-Ordering the New Apple Vision Pro Reflects Exciting Future Prospects | GadgetGuru</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/decouvrez-lorf-techniques-faites-maison-pour-recuperer-ses-propres-fichiers/"><u>Découvrez L’ORF : Techniques Faites Maison Pour Récupérer Ses Propres Fichiers</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/guide-rapide-et-facile-pour-sauvegarder-les-pieces-jointes-en-vba-dans-microsoft-outlook/"><u>Guide Rapide Et Facile Pour Sauvegarder Les Pièces Jointes en VBA Dans Microsoft Outlook</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/lass-nichts-unter-den-teppich-fallen-die-kunst-geloschte-videos-auf-deinem-laptop-wiederherzustellen-windows-11/"><u>Lass Nichts Unter Den Teppich Fallen! Die Kunst, Gelöschte Videos Auf Deinem Laptop Wiederherzustellen (Windows 11)</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/resmi-tutorial-mengenai-cara-gunakan-recovery-file-windows-microsoft-untuk-menyelesaikan-masalah-dalam-windows-1011/"><u>Resmi Tutorial Mengenai Cara Gunakan Recovery File Windows Microsoft Untuk Menyelesaikan Masalah Dalam Windows 10/11</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/solution/"><u>Solution</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/troubleshooting-failed-updates-on-windows-1110-reserved-partition/"><u>Troubleshooting Failed Updates on Windows 11/10 Reserved Partition</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/wdssdpc/"><u>WDブランドSSDがPCに認められない問題への対策方法</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/windows-server-2012-r2-upgrade-steps-transitioning-to-the-2022-version/"><u>Windows Server 2012 R2 Upgrade Steps: Transitioning to the 2022 Version</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/polnoe-rukovodstvo-po-klonirovaniyu-nvme-ssd-s-odnim-portom-shagi-i-sovety/"><u>Полное Руководство По Клонированию NVMe SSD С Одним Портом: Шаги И Советы</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1728499064746-2024/"><u>如何在2024年逆向工程影片 - 完整的修復幫浦指南</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1728501658806-aomei-backupper-windows/"><u>AOMEI Backupper: 使いやすさを優先した Windows 用無料バックアップツール</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/guida-rapida-allinstallazione-di-windows-aik-per-il-supporto-a-aomei-backupper/"><u>Guida Rapida All'installazione Di Windows AIK per Il Supporto a AOMEI Backupper</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g84-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G84 5G Bootloader Easily</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-mobile-3d-animation-made-easy-top-apps-for-android-and-iphone-for-2024/"><u>New Mobile 3D Animation Made Easy Top Apps for Android & iPhone for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/pc-windows-11-live-usb/"><u>PC初期設定に向けての簡単リフレッシュ - Windows 11 Live USB構築ガイドとブートプロセス解説</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solution-guide-resolving-failed-to-play-test-tone-glitch-effortlessly/"><u>Quick Solution Guide: Resolving 'Failed to Play Test Tone' Glitch Effortlessly</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/step-by-step-process-for-repairing-master-boot-record-issues-in-various-windows-versions/"><u>Step-by-Step Process for Repairing Master Boot Record Issues in Various Windows Versions</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-find-n3-flip-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo Find N3 Flip Reset Code | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/understanding-video-frame-rates-different-types-and-distinguishing-vfr-vs-cfr/"><u>Understanding Video Frame Rates - Different Types and Distinguishing VFR Vs. CFR</u></a></li>
 </ul></div>
 

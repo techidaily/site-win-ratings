@@ -1,7 +1,7 @@
 ---
 title: "Unveiling The Phenomenon Behind Ape Labs Lighting: Comprehensive Insights & Critique"
-date: 2025-01-11T17:15:10.969Z
-updated: 2025-01-14T21:28:44.594Z
+date: 2025-01-19T21:20:23.460Z
+updated: 2025-01-20T20:01:36.985Z
 tags:
   - product
 categories:
@@ -26,19 +26,11 @@ This small company is disrupting the professional lighting industry in six major
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## #1 – They are made in Germany, not China.
 
 While China is known as a world-wide manufacturing powerhouse, they aren’t exactly known for producing quality products. Germany, on the other hand, is known for percision engineering and quality merchandise.
 
 [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) started producing wireless, battery powered LED lights in 2008\. Originally, they were made in China (like all of the other popular lighting brands). However, they moved the entire manufacturing operation to their home country of Germany in 2015 after several different Chinese factories failed to produce to German standards.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## #2 – Their Sound Active Feature is Mesmerizing.
 
@@ -52,6 +44,10 @@ Also, the sound active feature can be set so all Ape Labs products are triggered
 
 **Check out this clip which is displaying (10) ApeStick 4’s and (4) LightCan’s:**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## #3 – They Take Wireless Control & Battery Power to the Next Level.
 
 The DMX wireless range on [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) products is rated at over 3,000 ft. The RF remote control range is rated at over 200 ft. And the battery life of their most popular uplight has been tested to run nearly 15 hours at full power. But that’s not all.
@@ -63,7 +59,7 @@ Ape Labs fixtures all use the same softare and comminute with eachother. This me
 **And this battery life test:**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## #4 – Eveything is Simple & Easy.
@@ -81,7 +77,7 @@ EXPAND IMAGE
 ![APE LABS Remote Graphic](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/02/APE-LABS-Remote-Graphic.png?fit=1030%2C796&ssl=1 "APE LABS Remote Graphic")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## #5 – Size & Weight.
@@ -100,6 +96,10 @@ Fortunately, [Ape Labs](https://www.apelabsusa.com/product/maxi#9fb11cfd80) prod
 
 You may have noticed that the ApeLight Maxi is listed as “water resistant” but doesn’t actually give an official IP rating in the specs. **To help you understand what they mean by “water resistant”, check out:**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More questions? Check out these reviews:
 
 **DJ City with Mojaxx**
@@ -113,7 +113,7 @@ We hope you enjoyed the review and run down on Ape Labs lighting. For more infor
 [VIEW APE LABS LIGHTING PRODUCTS](https://www.apelabsusa.com/product/maxi#9fb11cfd80)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -135,18 +135,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/02/apelabs-review-cover.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-switching-up-your-iphones-call-sound-effectively/"><u>[Updated] In 2024, Switching up Your iPhone's Call Sound Effectively</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/adobes-art-of-amusement-and-jest-for-2024/"><u>Adobe's Art of Amusement and Jest for 2024</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/boost-your-pcs-performance-expert-tips-on-speeding-up-and-optimizing-your-system-yl-tech-solutions/"><u>Boost Your PC's Performance: Expert Tips on Speeding Up & Optimizing Your System - YL Tech Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bridging-worlds-dex-transforms-galaxy-and-windows-interaction/"><u>Bridging Worlds: DeX Transforms Galaxy & Windows Interaction</u></a></li>
-<li><a href="https://techtrends.techidaily.com/combining-the-power-of-google-duo-and-gmail-a-complete-tutorial/"><u>Combining the Power of Google Duo and Gmail: A Complete Tutorial</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/eizos-boundaries-reached-the-cg318-4k-reviewed-for-2024/"><u>EIZO's Boundaries Reached The CG318-4K Reviewed for 2024</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/ensuring-optimal-function-of-your-laptop-fan-a-guide-by-yl-software-professionals/"><u>Ensuring Optimal Function of Your Laptop Fan - A Guide by YL Software Professionals</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-gadgets-and-computer-components-by-toms-hardware-experts/"><u>Expert Insights on Gadgets and Computer Components by Tom's Hardware Experts</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-poco-f5-pro-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Poco F5 Pro 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-oneplus-nord-n30-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from OnePlus Nord N30 5G Phones with/without a PC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/step-by-step-guide-to-game-recording-using-obs/"><u>Step-by-Step Guide to Game Recording Using OBS</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/streamlined-method-assembling-tracks-from-past-sets-in-digital-dj-systems-pioneer/"><u>Streamlined Method: Assembling Tracks From Past Sets in Digital DJ Systems (Pioneer)</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/unveiling-the-goals-behind-chinas-1979-one-child-policy-an-in-depth-look-by-yl-computing/"><u>Unveiling the Goals Behind China's 1979 One-Child Policy: An In-Depth Look by YL Computing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-find-your-perfect-editor-top-15-budget-friendly-online-solutions-for-2024/"><u>[New] Find Your Perfect Editor Top 15 Budget-Friendly Online Solutions for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-streamline-your-skype-talks-using-obs-effectively/"><u>[New] Streamline Your Skype Talks Using OBS Effectively</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-avoid-social-stress-how-to-unfollow-people/"><u>[Updated] 2024 Approved Avoid Social Stress How to Unfollow People</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-selecting-the-best-mac-sniping-solutions-for-2024/"><u>[Updated] Selecting the Best Mac Sniping Solutions for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1-guide-complet-comment-realiser-une-copie-de-secours-pour-votre-messagerie-icloud/"><u>1. Guide Complet: Comment Réaliser Une Copie De Secours Pour Votre Messagerie iCloud</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/comprehensive-steps-for-retrieving-information-from-your-crucial-m4-solid-state-drive/"><u>Comprehensive Steps for Retrieving Information From Your Crucial M4 Solid-State Drive</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/efficiency-9-4-36/"><u>Efficiency = 9 4 = 36</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/estrategias-expertas-para-transferir-correctamente-tu-instalacion-de-windows/"><u>Estrategias Expertas Para Transferir Correctamente Tu Instalación De Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-ideal-note-taking-apps-for-ipad-and-ipad-pro-users/"><u>Explore the Ideal Note-Taking Apps for iPad and iPad Pro Users</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/guida-passo-passo-per-la-creazione-di-unimmagine-disco-con-windows-user/"><u>Guida Passo-Passo per La Creazione Di Un'Immagine Disco Con Windows [User]:</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unlocking-youtubes-potential-10-mpeg-conversion-tips/"><u>In 2024, Unlocking YouTube's Potential 10 MPEG Conversion Tips</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/les-3-meilleures-techniques-pour-la-synchronisation-de-fichiers-sur-mac-gratuitement/"><u>Les 3 Meilleures Techniques Pour La Synchronisation De Fichiers Sur Mac Gratuitement</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/trouble-with-myspace-images-easily-retrieve-and-restore-vintage-pics/"><u>Trouble with MySpace Images? Easily Retrieve and Restore Vintage Pics!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/upcoming-changes-in-disneyplus-policy-end-of-shared-access-era-approaching/"><u>Upcoming Changes in Disney+ Policy: End of Shared Access Era Approaching</u></a></li>
 </ul></div>
 

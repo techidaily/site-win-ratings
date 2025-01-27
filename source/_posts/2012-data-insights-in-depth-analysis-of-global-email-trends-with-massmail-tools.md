@@ -1,7 +1,7 @@
 ---
 title: "2012 Data Insights: In-Depth Analysis of Global Email Trends with MassMail Tools"
-date: 2025-01-13T16:49:51.158Z
-updated: 2025-01-15T03:37:13.919Z
+date: 2025-01-19T18:35:10.158Z
+updated: 2025-01-27T00:27:27.742Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -35,6 +31,10 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -47,6 +47,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -70,6 +74,10 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
@@ -82,29 +90,25 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -115,7 +119,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,17 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-calmly-quieten-your-computers-audio-output/"><u>[New] Calmly Quieten Your Computer's Audio Output</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-from-novice-to-expert-a-comprehensible-guide-to-final-cut-pro-for-2024/"><u>[Updated] From Novice to Expert A Comprehensible Guide to Final Cut Pro for 2024</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/comment-protectez-vous-les-informations-personnelles-cryptage-de-sauvegarde-parfait-sous-windows-10/"><u>Comment Protectez-Vous Les Informations Personnelles : Cryptage De Sauvegarde Parfait Sous Windows 10</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/esegui-un-backup-di-tutti-i-tuoi-dischi-con-una-singola-comando-wbadmin/"><u>Esegui Un Backup Di Tutti I Tuoi Dischi Con Una Singola Comando WBAdmin</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/galland-technique/"><u>Galland Technique</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-to-correcting-haldll-problems-on-your-computer-windows-edition/"><u>Guide to Correcting Hal.dll Problems on Your Computer - Windows Edition</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-6-plus-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 6 Plus in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-mastering-the-science-of-quantum-hdr/"><u>In 2024, Mastering the Science of Quantum HDR</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/inventory-of-videography-items-for-exploration-for-2024/"><u>Inventory of Videography Items for Exploration for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-siri-not-working-here-are-solutions-for-non-functional-siri-suggestions/"><u>IPhone Siri Not Working? Here Are Solutions for Non-Functional Siri Suggestions</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/1728487815901-ps4/"><u>PS4で亡失・消去されたデータの回復手順</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-art-of-blending-audio-with-video-in-premiere-pro/"><u>[New] In 2024, The Art of Blending Audio with Video in Premiere Pro</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1-unveiling-control-panel-the-ins-and-outs-of-default-user-account-settings-expert-guide-by-yl-computing/"><u>1. Unveiling Control Panel: The Ins and Outs of Default User Account Settings - Expert Guide by YL Computing</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/complete-guide-step-by-step-file-backup-on-windows-11-tips-from-yl-computing/"><u>Complete Guide: Step-by-Step File Backup on Windows 11 - Tips From YL Computing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-speech-clarity-chromebooks-best-voice-modification-extensions/"><u>Elevate Speech Clarity Chromebook's Best Voice Modification Extensions</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/exploring-the-influence-of-confucian-philosophy-on-traditional-chinese-societal-norms-analysis-by-yl-computing/"><u>Exploring the Influence of Confucian Philosophy on Traditional Chinese Societal Norms - Analysis by YL Computing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-captivate-and-convert-creating-high-roi-animated-ads-on-facebook/"><u>In 2024, Captivate and Convert Creating High-ROI Animated Ads on Facebook</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-f34-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy F34 5G Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/master-your-file-explorer-ultimate-folder-configuration-tutorial-from-yl-software-experts/"><u>Master Your File Explorer: Ultimate Folder Configuration Tutorial From YL Software Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsungs-strategic-growth-with-galaxy-ai-dominates-as-google-faces-antitrust-challenges-the-latest-on-tech-leaders-rankings/"><u>Samsung’s Strategic Growth with Galaxy AI Dominates as Google Faces Antitrust Challenges – The Latest on Tech Leaders' Rankings</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-14-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 14 SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/user-insights-on-the-seatech-external-blu-ray-drive-with-usb-reliability-test-results/"><u>User Insights on the SeaTech External Blu-Ray Drive with USB - Reliability Test Results</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-x50i-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor X50i | Dr.fone</u></a></li>
 </ul></div>
 

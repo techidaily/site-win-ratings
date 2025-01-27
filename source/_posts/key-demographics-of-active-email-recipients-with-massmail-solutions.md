@@ -1,7 +1,7 @@
 ---
 title: Key Demographics of Active Email Recipients with MassMail Solutions
-date: 2025-01-08T16:28:56.617Z
-updated: 2025-01-14T21:06:41.130Z
+date: 2025-01-24T05:16:06.498Z
+updated: 2025-01-27T04:31:38.882Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -36,13 +32,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -79,7 +75,7 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
@@ -87,16 +83,24 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -110,13 +114,13 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,21 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-prime-video-camera-selections-for-superior-recording/"><u>[Updated] Prime Video Camera Selections for Superior Recording</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/6l275p2plus5bcg5pon5l2c57o757uf6lplusb56e76iez5paw56gs5lu2ic3kuidmraxkuidmraxmjifljzc/"><u>轻松将操作系统迁移至新硬件 -一步一步指南</u></a></li>
-<li><a href="https://driver-install.techidaily.com/audio-excellence-the-updated-scarlett-drives-process/"><u>Audio Excellence: The Updated Scarlett Drives Process</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/comment-convertir-gratuitement-votre-video-webm-avec-movavi/"><u>Comment Convertir Gratuitement Votre Vidéo WebM Avec Movavi?</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/configuracion-de-copia-de-seguridad-automatica-al-apagado-en-sistema-operativo-windows-7-explicada/"><u>Configuración De Copia De Seguridad Automática Al Apagado en Sistema Operativo Windows 7 Explicada</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/effective-strategies-transferring-outlook-pst-files-securely-into-onedrive-storage/"><u>Effective Strategies: Transferring Outlook PST Files Securely Into OneDrive Storage</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/effective-techniques-for-cloning-vms-in-vmware-esxi-with-or-without-vcenter/"><u>Effective Techniques for Cloning VMs in VMware ESXi with or without vCenter</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-online-archive-copyright-free-gaming-harmonies-for-2024/"><u>Free Online Archive Copyright-Free Gaming Harmonies for 2024</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/guia-paso-a-paso-para-usar-la-herramienta-de-inicio-aomei-pxe-con-facilidad/"><u>Guía Paso a Paso Para Usar La Herramienta De Inicio AOMEI PXE Con Facilidad</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/hervorming-van-productendestijlen-beschermen-tegen-ongeleukte-bestandonderlingen-in-verkennerbeheersing/"><u>Hervorming Van Productendestijlen: Beschermen Tegen Ongeleukte Bestandonderlingen in Verkennerbeheersing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-windows-11-with-top-tips/"><u>Mastering Windows 11 with Top Tips</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/quick-fix-guide-getting-windows-11-security-back-on-track-top-three-methods/"><u>Quick Fix Guide: Getting Windows 11 Security Back on Track - Top Three Methods</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/sunshine-strategies-enhancing-indoor-luminary-quality-for-2024/"><u>Sunshine Strategies Enhancing Indoor Luminary Quality for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tech-face-off-the-differences-between-apples-ipad-pro-and-macbook-air/"><u>Tech Face-Off: The Differences Between Apple's iPad Pro and MacBook Air</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-future-of-artificial-intelligence-predictions-for-innovations-in-the-coming-decades-insights-from-zdnet/"><u>The Future of Artificial Intelligence: Predictions for Innovations in the Coming Decades - Insights From ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/1719358387590-troubleshoot-frozen-shift-key-on-pc/"><u>Troubleshoot Frozen Shift Key on PC.</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-six-easy-steps-to-acquire-fb-links-for-free-for-2024/"><u>[New] Six Easy Steps to Acquire FB Links for FREE for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-untold-story-of-instagram-story-consumers/"><u>[Updated] 2024 Approved The Untold Story of Instagram Story Consumers</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1728504878991-c-windows-11/"><u>C盘如何在 Windows 11中进行安全保存：四个简单方法 -带路线图指南</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/convert-mp43gp-files-free-with-movavis-web-based-format-changer/"><u>Convert MP4/3GP Files FREE with Movavi's Web-Based Format Changer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/guide-to-making-an-impression-with-your-apple-podcast-entry/"><u>Guide to Making an Impression with Your Apple Podcast Entry</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-a-comprehensive-guide-to-capturing-your-hp-pcs-display/"><u>In 2024, A Comprehensive Guide to Capturing Your HP PC's Display</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-13-pro-max-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 13 Pro Max Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/mejora-tu-navegacion-en-windows-10-con-tacticas-de-optimizacion-efectivas/"><u>Mejora Tu Navegación en Windows 10 Con Tácticas De Optimización Efectivas</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/notfalldatensicherung-fehlschlagt-aufgrund-unzureichender-speicherkapazitat/"><u>Notfalldatensicherung Fehlschlägt Aufgrund Unzureichender Speicherkapazität</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/schritt-fur-schritt-anleitung-zum-auffinden-und-wiederherstellen-von-temporaren-dateien/"><u>Schritt-Für-Schritt-Anleitung Zum Auffinden Und Wiederherstellen Von Temporären Dateien</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-power-of-emojis-iphone-users-complete-manual/"><u>Unlock the Power of Emojis: IPhone User's Complete Manual</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-videopad-video-editor-review-and-buying-reacommendation/"><u>Updated 2024 Approved Videopad Video Editor Review and Buying Reacommendation</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/vmware-esxi-vs-microsoft-hyper-v-umfassender-leitfaden-zum-perfekten-hosting/"><u>VMware ESXi Vs. Microsoft Hyper-V: Umfassender Leitfaden Zum Perfekten Hosting</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/win11-ssd/"><u>Win11 SSD預設啟機變慢癥結分析及提升指引：深入了解和修復</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Global Email Campaign Figures: Insights From 2009-2010 Powered by MassMail Suite"
-date: 2025-01-21T05:03:01.733Z
-updated: 2025-01-27T08:36:46.930Z
+date: 2025-02-03T08:34:13.317Z
+updated: 2025-02-09T02:41:30.490Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -36,16 +32,12 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -61,6 +53,10 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -78,17 +74,21 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -98,17 +98,21 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -117,10 +121,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,19 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-clear-skies-in-video-learn-to-trim-logitech-feeds/"><u>[New] 2024 Approved Clear Skies in Video – Learn to Trim Logitech Feeds</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-how-to-reply-message-on-discord/"><u>[Updated] In 2024, How to Reply Message on Discord</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/3-trk-afdl-lnkl-ntham-altshghyl-aabr-aghza-il-krs-akhr/"><u>3 طرق أفضل لنقل نظام التشغيل عبر أجهزة: إلى قرص آخر</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/buy-aomei-all-in-one-backup-effortless-data-protection-and-synchronization/"><u>Buy AOMEI All-in-One Backup: Effortless Data Protection & Synchronization</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparative-insights-what-sets-natural-language-processing-apart-from-general-ml-concepts/"><u>Comparative Insights: What Sets Natural Language Processing Apart From General ML Concepts?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-setup-software-for-your-corsair-k70-quick-and-simple-methods/"><u>Download & Setup Software for Your Corsair K70 - Quick & Simple Methods</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/expert-guide-on-moving-your-samsung-account-to-windows-11-easy-steps-and-instructions-with-download-links/"><u>Expert Guide on Moving Your Samsung Account to Windows 11 - Easy Steps & Instructions with Download Links</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fortified-process-for-adding-tiktok-profile-hyperlinks-for-2024/"><u>Fortified Process for Adding TikTok Profile Hyperlinks for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-celebrity-fleeting-frame-revisit/"><u>In 2024, Celebrity Fleeting Frame Revisit</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-asus-rog-phone-8-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Asus ROG Phone 8 Pro Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/simple-steps-setting-up-a-system-restore-on-windows-11-two-quick-methods/"><u>Simple Steps: Setting Up a System Restore on Windows 11 (Two Quick Methods)</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/step-by-step-guide-retrieving-and-reviving-your-memories-from-an-iphone-backup/"><u>Step-by-Step Guide: Retrieving and Reviving Your Memories From an iPhone Backup</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/wiederherstellung-von-daten-auf-der-samsung-festplatte-mit-myrecover-professionelle-anleitungen/"><u>Wiederherstellung Von Daten Auf Der Samsung-Festplatte Mit MyRecover - Professionelle Anleitungen</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-effective-sales-strategies-uncovered/"><u>[New] 2024 Approved Effective Sales Strategies Uncovered</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-boosting-vimeo-video-playback-tips-and-tricks/"><u>[Updated] 2024 Approved Boosting Vimeo Video Playback Tips and Tricks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-amplify-your-music-experience-with-youtubes-playlist-guide/"><u>[Updated] In 2024, Amplify Your Music Experience with YouTube's Playlist Guide</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/comprehensive-guide-to-cab-files-what-they-are-and-recovery-solutions-for-corrupted-or-deleted-data/"><u>Comprehensive Guide to CAB Files - What They Are and Recovery Solutions for Corrupted or Deleted Data</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/effektive-methode-wie-sie-die-datenredundanz-auf-ihrem-synology-nas-eliminieren/"><u>Effektive Methode: Wie Sie Die Datenredundanz Auf Ihrem Synology NAS Eliminieren</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/premier-jump-boosters-for-your-vehicle-2024/"><u>Premier Jump Boosters for Your Vehicle, 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-and-easy-installation-hp-projector-8710-drivers-windows-download/"><u>Quick & Easy Installation: HP Projector 8710 Drivers (Windows) Download</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-repair-the-scheduler-glitch-on-your-windows-10-device-for-smooth-video-calls/"><u>Step-by-Step Guide to Repair the Scheduler Glitch on Your Windows 10 Device for Smooth Video Calls</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tips-and-techniques-for-correcting-sound-problems-in-resident-evil-village/"><u>Tips and Techniques for Correcting Sound Problems in Resident Evil Village</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/top-10-speedy-solutions-resolve-undetected-yet-spinning-hard-drive-issues/"><u>Top 10 Speedy Solutions: Resolve Undetected, Yet Spinning Hard Drive Issues</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/top-no-cost-substitutes-for-acronis-snap-deploy-best-image-deployment-tools/"><u>Top No-Cost Substitutes for Acronis Snap Deploy: Best Image Deployment Tools</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/ultimate-tutorial-effortless-hdd-to-ssd-cloning-process-with-usb-connection-made-easy/"><u>Ultimate Tutorial: Effortless HDD to SSD Cloning Process with USB Connection Made Easy</u></a></li>
 </ul></div>
 
